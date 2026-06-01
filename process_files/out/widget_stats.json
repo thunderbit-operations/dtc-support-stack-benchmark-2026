@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "source": "DTC brand pool home.html scan (1238 effective sample)",
+    "raw_input_total": 1429,
+    "effective_rows": 1148,
+    "snapshot_date": "2026-05-12"
+  },
+  "vendor_share": {
+    "Gorgias": {
+      "count": 267,
+      "pct": 23.3
+    },
+    "Zendesk": {
+      "count": 49,
+      "pct": 4.3
+    },
+    "WhatsApp Button": {
+      "count": 19,
+      "pct": 1.7
+    },
+    "Reamaze": {
+      "count": 17,
+      "pct": 1.5
+    },
+    "HubSpot Chat": {
+      "count": 12,
+      "pct": 1.0
+    },
+    "Kustomer": {
+      "count": 11,
+      "pct": 1.0
+    },
+    "Crisp": {
+      "count": 10,
+      "pct": 0.9
+    },
+    "Intercom": {
+      "count": 7,
+      "pct": 0.6
+    },
+    "Facebook Messenger Plugin": {
+      "count": 7,
+      "pct": 0.6
+    },
+    "Help Scout": {
+      "count": 5,
+      "pct": 0.4
+    },
+    "Tidio": {
+      "count": 5,
+      "pct": 0.4
+    },
+    "LiveChat": {
+      "count": 4,
+      "pct": 0.3
+    },
+    "Tawk.to": {
+      "count": 3,
+      "pct": 0.3
+    },
+    "Front": {
+      "count": 3,
+      "pct": 0.3
+    },
+    "Freshchat": {
+      "count": 2,
+      "pct": 0.2
+    },
+    "Chatra": {
+      "count": 2,
+      "pct": 0.2
+    },
+    "Olark": {
+      "count": 1,
+      "pct": 0.1
+    },
+    "Shopify Inbox": {
+      "count": 1,
+      "pct": 0.1
+    }
+  },
+  "widget_coverage": {
+    "none": {
+      "count": 751,
+      "pct": 65.4
+    },
+    "1": {
+      "count": 370,
+      "pct": 32.2
+    },
+    "2": {
+      "count": 26,
+      "pct": 2.3
+    },
+    "3+": {
+      "count": 1,
+      "pct": 0.1
+    }
+  },
+  "ai_signal": {
+    "count": 13,
+    "pct_of_total": 1.1
+  },
+  "no_chat_widget_at_all": {
+    "count": 149,
+    "pct": 13.0
+  },
+  "generic_chat_hint_but_no_vendor": {
+    "count": 602,
+    "pct": 52.4,
+    "note": "可能用了 native chat / 自建 / 我们没识别到的 vendor"
+  }
+}

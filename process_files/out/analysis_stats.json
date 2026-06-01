@@ -1,0 +1,254 @@
+{
+  "_meta": {
+    "source": "1238 DTC brand pool home.html static scan",
+    "effective_rows": 1148,
+    "snapshot_date": "2026-05-12",
+    "method": "static HTML widget detection (no JS execution); represents lower bound — actually-loaded widgets via JS not captured"
+  },
+  "vendor_share": [
+    {
+      "vendor": "Gorgias",
+      "count": 267,
+      "pct": 23.3
+    },
+    {
+      "vendor": "Zendesk",
+      "count": 49,
+      "pct": 4.3
+    },
+    {
+      "vendor": "WhatsApp Button",
+      "count": 19,
+      "pct": 1.7
+    },
+    {
+      "vendor": "Reamaze",
+      "count": 17,
+      "pct": 1.5
+    },
+    {
+      "vendor": "HubSpot Chat",
+      "count": 12,
+      "pct": 1.0
+    },
+    {
+      "vendor": "Kustomer",
+      "count": 11,
+      "pct": 1.0
+    },
+    {
+      "vendor": "Crisp",
+      "count": 10,
+      "pct": 0.9
+    },
+    {
+      "vendor": "Intercom",
+      "count": 7,
+      "pct": 0.6
+    },
+    {
+      "vendor": "Facebook Messenger Plugin",
+      "count": 7,
+      "pct": 0.6
+    },
+    {
+      "vendor": "Help Scout",
+      "count": 5,
+      "pct": 0.4
+    },
+    {
+      "vendor": "Tidio",
+      "count": 5,
+      "pct": 0.4
+    },
+    {
+      "vendor": "LiveChat",
+      "count": 4,
+      "pct": 0.3
+    },
+    {
+      "vendor": "Tawk.to",
+      "count": 3,
+      "pct": 0.3
+    },
+    {
+      "vendor": "Front",
+      "count": 3,
+      "pct": 0.3
+    },
+    {
+      "vendor": "Freshchat",
+      "count": 2,
+      "pct": 0.2
+    },
+    {
+      "vendor": "Chatra",
+      "count": 2,
+      "pct": 0.2
+    },
+    {
+      "vendor": "Olark",
+      "count": 1,
+      "pct": 0.1
+    },
+    {
+      "vendor": "Shopify Inbox",
+      "count": 1,
+      "pct": 0.1
+    }
+  ],
+  "widget_coverage": {
+    "any_widget_count": 397,
+    "any_widget_pct": 34.6,
+    "single_widget_count": 370,
+    "multi_widget_count": 27,
+    "multi_widget_pct": 2.4,
+    "no_widget_count": 751,
+    "no_widget_pct": 65.4,
+    "no_chat_signal_at_all": 149,
+    "no_chat_signal_pct": 13.0
+  },
+  "ai_signal": {
+    "count": 13,
+    "pct_of_total": 1.1,
+    "gorgias_with_ai_signal_count": 2,
+    "gorgias_with_ai_signal_pct_within_gorgias": 0.7,
+    "ai_signal_brand_list_sample": [
+      {
+        "domain": "alleyoop.co",
+        "widgets": "(static scan未识别到 vendor)"
+      },
+      {
+        "domain": "amazfit.com",
+        "widgets": "(static scan未识别到 vendor)"
+      },
+      {
+        "domain": "astrid.com",
+        "widgets": "(static scan未识别到 vendor)"
+      },
+      {
+        "domain": "fillingpieces.com",
+        "widgets": "Gorgias"
+      },
+      {
+        "domain": "hikoco.com",
+        "widgets": "Crisp;Facebook Messenger Plugin"
+      },
+      {
+        "domain": "littlesaints.com",
+        "widgets": "Help Scout"
+      },
+      {
+        "domain": "livingproof.com",
+        "widgets": "(static scan未识别到 vendor)"
+      },
+      {
+        "domain": "olly.com",
+        "widgets": "Zendesk"
+      },
+      {
+        "domain": "p.co",
+        "widgets": "(static scan未识别到 vendor)"
+      },
+      {
+        "domain": "theminimalcloset.com",
+        "widgets": "(static scan未识别到 vendor)"
+      },
+      {
+        "domain": "thewodlife.com",
+        "widgets": "Zendesk"
+      },
+      {
+        "domain": "truelinkswear.com",
+        "widgets": "Gorgias"
+      },
+      {
+        "domain": "yutori.com",
+        "widgets": "(static scan未识别到 vendor)"
+      }
+    ]
+  },
+  "multi_widget_examples": [
+    {
+      "domain": "absoluteweb.com",
+      "widgets": "Gorgias;HubSpot Chat"
+    },
+    {
+      "domain": "artoftea.com",
+      "widgets": "Gorgias;HubSpot Chat"
+    },
+    {
+      "domain": "bombtech.com",
+      "widgets": "Gorgias;Crisp"
+    },
+    {
+      "domain": "corkcicle.com",
+      "widgets": "Zendesk;Crisp"
+    },
+    {
+      "domain": "curie.com",
+      "widgets": "HubSpot Chat;LiveChat"
+    },
+    {
+      "domain": "emarinella.com",
+      "widgets": "Crisp;WhatsApp Button"
+    },
+    {
+      "domain": "freshpatch.com",
+      "widgets": "Gorgias;Reamaze"
+    },
+    {
+      "domain": "frey.com",
+      "widgets": "Gorgias;Crisp"
+    },
+    {
+      "domain": "functionofbeauty.com",
+      "widgets": "Gorgias;Freshchat"
+    },
+    {
+      "domain": "georgiemane.com",
+      "widgets": "Gorgias;Facebook Messenger Plugin"
+    },
+    {
+      "domain": "gfuel.com",
+      "widgets": "Gorgias;Zendesk"
+    },
+    {
+      "domain": "happywax.com",
+      "widgets": "Gorgias;Zendesk"
+    },
+    {
+      "domain": "hikoco.com",
+      "widgets": "Crisp;Facebook Messenger Plugin"
+    },
+    {
+      "domain": "littlesleepies.com",
+      "widgets": "Gorgias;Help Scout"
+    },
+    {
+      "domain": "mercihandy.com",
+      "widgets": "Gorgias;Facebook Messenger Plugin"
+    },
+    {
+      "domain": "nakedcashmere.com",
+      "widgets": "Gorgias;Zendesk"
+    },
+    {
+      "domain": "naturalbabyshower.com",
+      "widgets": "Front;WhatsApp Button"
+    },
+    {
+      "domain": "omylaboratoires.com",
+      "widgets": "Gorgias;Crisp;Reamaze"
+    },
+    {
+      "domain": "orlebarbrown.com",
+      "widgets": "Gorgias;WhatsApp Button"
+    },
+    {
+      "domain": "pandatea.co",
+      "widgets": "Crisp;WhatsApp Button"
+    }
+  ],
+  "total_widget_vendors_identified": 18
+}

@@ -1,0 +1,1239 @@
+domain,platform,frontend,analytics,payments,headless,home_bytes,product_bytes,llms_txt
+1906.io,,,,,False,114,0,soft_404
+2xist.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,53128,0,none
+4ocean.com,Shopify,,Amplitude|Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262104,0,shopify_auto
+707street.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Loox|Microsoft Clarity|Universal Analytics,PayPal|Shop Pay,False,262131,262099,shopify_auto
+7bboardshop.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262141,262122,manual
+abodeliving.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262100,0,shopify_auto
+absoluteweb.com,WordPress,,Google Analytics 4|Google Tag Manager,,False,262119,0,none
+activetruth.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy|Triple Whale|Yotpo,PayPal|Shop Pay,False,261931,261698,shopify_auto
+adhocatelier.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4|Hotjar,,False,130850,0,manual
+aetrex.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Yotpo,PayPal|Shop Pay,False,262070,0,none
+aeyla.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|TikTok Pixel|Triple Whale|Trustpilot,PayPal|Shop Pay,False,261907,0,none
+agjeans.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Loop Returns|Triple Whale,PayPal|Shop Pay,False,262089,262091,shopify_auto
+agoodcompany.com,Squarespace,,Google Analytics 4,,False,262144,0,none
+aimer.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,261305,261708,shopify_auto
+aje.com,,Next.js,Cookiebot / OneTrust|Google Analytics 4|VWO,,False,262113,0,none
+alessi.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,220936,261894,shopify_auto
+alexandani.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Northbeam,Shop Pay,False,261964,0,shopify_auto
+alicemushrooms.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity|Rebuy|TikTok Pixel|Triple Whale,PayPal|Shop Pay,False,261864,262026,shopify_auto
+alivebody.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262104,262104,shopify_auto
+all4cycling.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262090,262078,shopify_auto
+allbirds.com,Shopify,,Amplitude|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262124,262132,shopify_auto
+allermi.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Microsoft Clarity|Triple Whale|VWO,PayPal|Shop Pay,False,262140,0,shopify_auto
+alleyoop.co,,Next.js,,,False,218463,0,none
+alliedmedical.com,,,Google Analytics 4|Universal Analytics,,False,32331,46390,none
+aloha.com,Shopify,,,Afterpay|Shop Pay,False,262114,262114,shopify_auto
+aloyoga.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Heap|New Relic,PayPal|Shop Pay,False,262037,0,shopify_auto
+amazfit.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Microsoft Clarity,PayPal|Shop Pay,False,262124,0,none
+amika.com,,,,,False,3567,0,none
+amrhair.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262078,262078,shopify_auto
+ananday.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262125,261995,shopify_auto
+ancestralsupplements.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Northbeam|Skio|Triple Whale,PayPal|Shop Pay,False,262105,262095,shopify_auto
+andcollar.com,Shopify,,Attentive|Google Analytics 4|Northbeam,PayPal|Shop Pay,False,262124,262138,shopify_auto
+andieswim.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity,PayPal|Shop Pay,False,262024,0,shopify_auto
+angelusdirect.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262118,262118,shopify_auto
+animalsmatter.com,Shopify,,Bing UET|Google Analytics 4|Gorgias,Shop Pay,False,175661,232077,shopify_auto
+anker.com,Shopify,Next.js,Google Analytics 4,,True,262143,0,manual
+apothekary.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,193544,0,shopify_auto
+applovin.com,,Next.js,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,130829,0,soft_404
+appointed.com,,,Universal Analytics,,False,159685,0,soft_404
+apupabove.com,Shopify,,Google Analytics 4|Klaviyo Onsite|TikTok Pixel|Triple Whale,Shop Pay,False,261907,261907,shopify_auto
+aras.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,244021,0,none
+arcteryx.com,,Next.js,Cookiebot / OneTrust|New Relic,,False,149456,0,soft_404
+arhaus.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Optimizely|Yotpo,Shop Pay,False,262117,0,shopify_auto
+arizonabeverages.com,,,,,False,114,0,manual
+artoftea.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Reddit Pixel|Triple Whale,Afterpay|PayPal|Shop Pay,False,262116,262087,shopify_auto
+asphalte.com,Shopify,Nuxt.js,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,True,110885,0,none
+astrid.com,,Next.js,Google Analytics 4,,False,262129,0,none
+ateliercommerce.com,,,Google Analytics 4,,False,262137,0,none
+athleticgreens.com,Shopify,Next.js,Datadog RUM|Google Analytics 4|Google Tag Manager|VWO,,True,262018,262109,manual
+atkinandthyme.com,Magento / Adobe Commerce,,Google Analytics 4|Google Tag Manager|New Relic|Trustpilot,,False,221947,0,none
+attaboy.com,Squarespace,,Google Analytics 4,,False,136954,0,none
+attitudeliving.com,Shopify,Remix,Google Analytics 4|Google Tag Manager,,True,262036,262078,none
+audioadvice.com,Shopify,,Google Analytics 4|Rebuy,PayPal|Shop Pay,False,262135,0,shopify_auto
+august.com,Shopify,,Bazaarvoice|Google Analytics 4|Microsoft Clarity|VWO,Affirm|PayPal|Shop Pay,False,262091,262098,shopify_auto
+aurabora.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262133,236745,shopify_auto
+auvodka.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Meta Pixel|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262098,262062,shopify_auto
+avantskincare.com,,,,,False,114,0,manual
+avara.com,Squarespace,,Google Analytics 4,,False,262129,0,none
+aviatornation.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Northbeam,Shop Pay,False,262056,261950,shopify_auto
+aweinspired.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Octane AI|Triple Whale,PayPal|Shop Pay,False,262103,262103,shopify_auto
+baboontothemoon.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Triple Whale,Amazon Pay|Shop Pay,False,262136,262020,shopify_auto
+babylist.com,Shopify,,Datadog RUM|Google Analytics 4|Meta Pixel|Quantcast|Universal Analytics,,False,202550,262012,none
+babymori.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Universal Analytics|VWO,Klarna|PayPal|Shop Pay,False,262110,262115,shopify_auto
+backyardbutchers.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Rebuy|Triple Whale,PayPal|Shop Pay,False,262118,262118,shopify_auto
+badgleymischka.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262106,262088,shopify_auto
+baggu.com,,Next.js,Google Analytics 4,,False,262144,0,none
+bala.com,Drupal,,Google Analytics 4|Universal Analytics,,False,38039,0,none
+balancedrock.com,,,,,False,156,0,none
+balanceme.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Octane AI|Triple Whale|Yotpo,PayPal|Shop Pay,False,261796,261710,shopify_auto
+balsamhill.com,,Next.js,Google Analytics 4,Google Pay,False,262054,0,none
+bambibaby.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262140,262136,shopify_auto
+bambuearth.com,Shopify,,Google Analytics 4|Junip|Klaviyo Onsite|Microsoft Clarity|Octane AI,PayPal|Shop Pay,False,262021,0,shopify_auto
+baredfootwear.com,Shopify,,Google Analytics 4|Google Tag Manager|Triple Whale|VWO,,False,262090,0,none
+bareminerals.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,261492,262066,shopify_auto
+bareperformancenutrition.com,Shopify,,Attentive|Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Microsoft Clarity|Octane AI|Rebuy|VWO,Amazon Pay|PayPal|Shop Pay,False,262078,262064,shopify_auto
+bark.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,262144,0,none
+batch.com,,Next.js,Google Analytics 4,,False,262121,0,manual
+battlbox.com,Shopify,,Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Northbeam|Reddit Pixel,PayPal|Shop Pay,False,262130,262134,shopify_auto
+bauer.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Rebuy|Triple Whale|VWO,Shop Pay,False,262132,262120,shopify_auto
+bdelliumtools.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262133,262128,shopify_auto
+beam.com,,,Google Analytics 4,,False,1329,0,none
+beard.com,,,,,False,53961,0,soft_404
+beardbrand.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262046,262045,none
+beautyheroes.com,Shopify|WordPress,,Google Analytics 4|Google Tag Manager|Microsoft Clarity|TikTok Pixel,,False,261732,0,none
+beautyofjoseon.com,Shopify,,Google Analytics 4|Gorgias,PayPal|Shop Pay,False,261569,261576,shopify_auto
+bedjet.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Shogun|Triple Whale,Affirm|PayPal|Shop Pay,False,261981,261979,shopify_auto
+beekeepersnaturals.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Meta Pixel|Northbeam|Rebuy,PayPal|Shop Pay,False,262112,262121,shopify_auto
+beekman1802.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Tapcart|Triple Whale,Afterpay|AmazonPay (legacy)|PayPal|Shop Pay,False,262121,261866,shopify_auto
+beerhawk.com,,,,,False,114,0,soft_404
+beginhealth.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Northbeam|Triple Whale,PayPal|Shop Pay,False,262088,262067,shopify_auto
+beis.com,,,Cookiebot / OneTrust,,False,12314,0,none
+belstaff.com,Shopify,SvelteKit,Google Tag Manager,Klarna,True,208285,0,soft_404
+bev.com,,,Google Analytics 4,,False,262143,0,soft_404
+beyondyoga.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy|VWO,PayPal|Shop Pay,False,261984,262130,shopify_auto
+bhufoods.com,Shopify,,Bazaarvoice|Google Analytics 4|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262099,262132,shopify_auto
+bimble.com,,,Google Analytics 4|Universal Analytics,,False,13556,0,none
+biolite.co,Shopify,,Bazaarvoice|Crazy Egg|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Triple Whale,PayPal|Shop Pay,False,262136,0,none
+biossance.com,,Astro,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,176825,241058,none
+birchbox.com,Shopify,Next.js,Google Tag Manager,,True,127742,0,none
+birdandblend.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262103,0,none
+bkbeauty.com,Shopify,,Google Analytics 4|Junip|Klaviyo Onsite|Triple Whale,Afterpay|PayPal|Shop Pay,False,245747,243172,shopify_auto
+blenderbottle.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262113,0,shopify_auto
+blenderseyewear.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Northbeam|Rebuy|TikTok Pixel,PayPal|Shop Pay,False,262099,0,shopify_auto
+blendjet.com,Shopify,,Google Analytics 4|Universal Analytics,,False,262137,262119,shopify_auto
+bloomers.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4|Universal Analytics,,False,211146,0,none
+blueapron.com,,Next.js,Cookiebot / OneTrust,,False,262140,0,none
+bluebanana.com,,,Google Analytics 4|Google Tag Manager,,False,262140,0,none
+bluebananabrand.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,261892,261865,shopify_auto
+blueland.com,Shopify,Hydrogen,Google Analytics 4|Google Tag Manager,,True,262058,262022,soft_404
+blume.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Octane AI|Rebuy,PayPal|Shop Pay,False,262014,261837,shopify_auto
+boardroomsocks.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262127,262115,shopify_auto
+boatoutfitters.com,Magento / Adobe Commerce,,Google Analytics 4|Klaviyo Onsite|New Relic,,False,262132,0,none
+bobochoses.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262116,262076,shopify_auto
+boden.com,Shopify,,Adobe Analytics|Adobe Launch / DTM|Google Analytics 4,PayPal|Shop Pay,False,262143,262137,shopify_auto
+boie.com,,,Google Analytics 4|Google Tag Manager|Universal Analytics,,False,50362,0,none
+bols.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,176233,0,none
+bombas.com,Shopify,Next.js,Cookiebot / OneTrust|Google Analytics 4|Loop Returns,,True,262144,262101,none
+bombayshavingcompany.com,Shopify,,Google Analytics 4|Google Tag Manager|Meta Pixel|Microsoft Clarity|Recharge,PayPal|Shop Pay,False,262132,262132,shopify_auto
+bombtech.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|TikTok Pixel|Triple Whale|Universal Analytics,PayPal|Shop Pay,False,262063,0,none
+bonaventura.com,Shopify,,Google Analytics 4|Gorgias,PayPal|Shop Pay,False,262026,0,shopify_auto
+bondiboost.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI|Yotpo,PayPal|Shop Pay,False,262031,262025,shopify_auto
+bonia.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|VWO,Shop Pay,False,261421,261433,shopify_auto
+bonlook.com,Shopify,,Attentive|Google Analytics 4,Shop Pay,False,262129,262097,shopify_auto
+boody.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,261706,261721,shopify_auto
+boomfoods.com,,,,,False,114,0,manual
+boozy.io,,,,,False,114,0,manual
+borealfolk.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,261792,0,shopify_auto
+bostonproper.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Northbeam|Yotpo,PayPal|Shop Pay,False,262141,262141,shopify_auto
+boxraw.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,261994,262025,shopify_auto
+bpisports.com,Shopify,,Attentive|Bing UET|Google Analytics 4,Amazon Pay|PayPal|Shop Pay,False,261986,261941,shopify_auto
+brainsleep.com,,,,,False,114,0,manual
+branch.com,,Next.js,Google Analytics 4,,False,179467,0,none
+brandcollective.com,WordPress,,Google Analytics 4,,False,106578,0,none
+brandonblackwood.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite,Shop Pay,False,262142,0,shopify_auto
+braunbuffel.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,261663,261651,shopify_auto
+bravafabrics.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,261975,0,shopify_auto
+braxleybands.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Rebuy|Triple Whale,Amazon Pay|PayPal|Shop Pay,False,262119,262103,shopify_auto
+brez.com,,,,,False,114,0,manual
+briogeo.com,Shopify,Next.js,Cookiebot / OneTrust|Google Analytics 4,,True,261932,0,none
+brodo.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Plausible,Stripe,False,262104,171650,none
+brooklinen.com,Shopify,,Attentive|Google Analytics 4,PayPal|Shop Pay,False,262132,0,shopify_auto
+brothers.com,,,,,False,23137,0,none
+bryght.com,,,Crazy Egg|Google Analytics 4|Google Tag Manager,Affirm,False,262144,262144,soft_404
+bubsnaturals.com,Shopify,,Google Analytics 4|Gorgias|Junip|Klaviyo Onsite|Microsoft Clarity|Recharge|VWO,PayPal|Shop Pay,False,261962,262092,shopify_auto
+buckmason.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4,Afterpay,False,262142,262144,none
+buddhaboard.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,228477,262061,shopify_auto
+budgysmuggler.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262144,262101,shopify_auto
+bulletproof.com,Shopify|WordPress|PrestaShop,,Google Analytics 4,,False,262134,0,soft_404
+bullybillows.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Loox|Microsoft Clarity|TikTok Pixel|Trustpilot,PayPal|Shop Pay,False,262065,262033,shopify_auto
+burrow.com,Shopify,,Google Analytics 4|Segment,Shop Pay,False,262131,262111,none
+busabout.com,,,Google Tag Manager|Hotjar,,False,84590,0,none
+bushbalm.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Northbeam|Octane AI|Snapchat Pixel,PayPal|Shop Pay,False,262070,0,shopify_auto
+busybeetools.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,Affirm|PayPal|Shop Pay,False,262144,262080,shopify_auto
+butcherbox.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Optimizely|Segment,PayPal|Shop Pay,False,262101,0,shopify_auto
+bydee.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,103670,100134,shopify_auto
+byltbasics.com,Shopify,Hydrogen,Google Analytics 4|Google Tag Manager,,True,262115,262085,none
+cabaia.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Trustpilot,PayPal|Shop Pay,False,261906,261900,shopify_auto
+cabanamagazine.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Pinterest Tag,PayPal|Shop Pay,False,262132,262128,shopify_auto
+cabaulifestyle.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity|Triple Whale|Yotpo,Shop Pay,False,262124,262087,shopify_auto
+cadenlane.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Northbeam|Octane AI|Rebuy|Yotpo,PayPal|Shop Pay,False,262078,262023,shopify_auto
+caitlynminimalist.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite,Amazon Pay|PayPal|Shop Pay,False,262038,262041,shopify_auto
+cambridgesatchel.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite|Yotpo,Klarna|PayPal|Shop Pay,False,262127,262102,shopify_auto
+cambridgesatchelcompany.com,,,Google Analytics 4|Universal Analytics,,False,44343,0,soft_404
+campusprotein.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Junip|Klaviyo Onsite|Triple Whale,Shop Pay,False,56834,0,none
+canebrew.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262107,262093,shopify_auto
+canncbd.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4,,False,255840,0,none
+caracara.com,WordPress,,Google Analytics 4|Hotjar,,False,29692,0,none
+caraway.com,,,Google Tag Manager,,False,12223,0,none
+carawayhome.com,Shopify,Next.js,Google Analytics 4,,True,262027,262032,none
+carbahn.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262133,262084,shopify_auto
+careof.co,Webflow,,Google Analytics 4,,False,73461,0,none
+cargocrew.com,,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,False,262079,262009,none
+carpe.com,Wix,,Google Analytics 4,,False,262102,0,manual
+carrier.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|VWO,,False,118610,0,soft_404
+carters.com,Salesforce Commerce Cloud,,Adobe Launch / DTM|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,262140,0,none
+cartoys.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Triple Whale,Shop Pay,False,262144,261934,shopify_auto
+casadigimedia.com,Webflow,,Google Analytics 4,,False,132366,0,none
+casely.com,,,,,False,20331,0,none
+casio.com,,,,,False,2579,0,none
+casper.com,Shopify,,Attentive|Google Analytics 4|Yotpo,Affirm|Afterpay|PayPal|Shop Pay,False,262122,262084,shopify_auto
+castaner.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,261944,261673,shopify_auto
+castore.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Yotpo,AmazonPay (legacy)|PayPal|Shop Pay,False,262119,0,none
+catbird.co,,,,,False,114,0,soft_404
+catoriclothing.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Junip|Klaviyo Onsite,PayPal|Shop Pay,False,261174,0,shopify_auto
+caulipower.com,,,,,False,114,0,soft_404
+ceramicspeed.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,261609,261991,shopify_auto
+ceylon.com,,,Google Analytics 4|Universal Analytics,,False,200856,0,soft_404
+chai-guys.com,,,,,False,114,0,soft_404
+chamberlaincoffee.com,Shopify,Remix|Hydrogen,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,,True,262045,0,manual
+chazdean.com,Shopify,,Attentive|Google Analytics 4|Hotjar|Microsoft Clarity|Octane AI|Rebuy|Stamped,Afterpay|Shop Pay,False,135036,247326,shopify_auto
+cheak.com,Shopify,,Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Loox|LoyaltyLion|Microsoft Clarity,PayPal|Shop Pay,False,262126,262106,shopify_auto
+cheekywipes.com,,,Bing UET|Google Analytics 4|Google Tag Manager|Meta Pixel|TikTok Pixel|Trustpilot|Universal Analytics,,False,92997,0,none
+chelseapeers.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262060,0,shopify_auto
+chewy.com,,,,,False,2484,0,none
+chiikawa.com,WordPress,,Google Analytics 4,,False,136211,0,none
+chriscotegolf.com,Shopify,,Google Analytics 4,Shop Pay,False,262126,262100,shopify_auto
+chubbies.com,Shopify,Hydrogen,,,True,262125,262102,soft_404
+cidercade.com,WooCommerce|WordPress,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,,False,150179,0,soft_404
+circular.com,WordPress|PrestaShop,,Google Analytics 4,,False,188180,0,manual
+circulon.com,Shopify,,Bazaarvoice|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262100,262062,shopify_auto
+cise.com,,,,,False,622,0,none
+citybonfires.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Loox|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,261974,261899,shopify_auto
+clearwithin.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Quantcast|Triple Whale|Universal Analytics,PayPal|Shop Pay,False,230542,262079,shopify_auto
+clivecoffee.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Yotpo,Shop Pay,False,159588,188699,shopify_auto
+clove.com,,Next.js,Google Analytics 4,,False,53018,0,none
+clubbrugge.com,,,,,False,114,0,manual
+coalheadwear.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262112,262112,shopify_auto
+cocorico.com,WordPress|PrestaShop,,Google Analytics 4,,False,71749,0,none
+cocunat.com,Shopify,Astro,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|VWO,,True,196358,0,none
+coffeebeanery.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,261464,261499,shopify_auto
+collarsco.com,,,Google Analytics 4,,False,62886,0,none
+colourpop.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262075,262071,shopify_auto
+cometeer.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262130,262102,shopify_auto
+complexnetworks.com,Shopify,Next.js,Amplitude|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,True,262121,262128,manual
+coppercowcoffee.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,202525,199147,shopify_auto
+coravin.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Triple Whale,Amazon Pay|PayPal|Shop Pay,False,262075,262069,shopify_auto
+cordings.com,Magento / Adobe Commerce,,Google Analytics 4|Google Tag Manager|Meta Pixel,,False,262138,0,none
+cordsclub.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity|TikTok Pixel,PayPal|Shop Pay,False,262103,262101,shopify_auto
+corkcicle.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,261970,261980,shopify_auto
+cornbreadhemp.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy|Skio,Shop Pay,False,262074,262090,shopify_auto
+corneacare.com,WordPress|Webflow,,Google Tag Manager,,False,112530,0,none
+cosrx.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Segment|Yotpo,Shop Pay,False,261518,261602,shopify_auto
+cotopaxi.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Loop Returns|TikTok Pixel,Klarna|PayPal|Shop Pay,False,256410,228896,shopify_auto
+cozey.com,,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,False,262114,0,none
+cozyearth.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Northbeam,PayPal|Shop Pay,False,262078,262109,shopify_auto
+cozykids.com,,,,,False,114,0,soft_404
+craftdlondon.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy|VWO,PayPal|Shop Pay,False,261979,262026,shopify_auto
+craftginclub.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Triple Whale|VWO,PayPal|Shop Pay,False,261863,261861,shopify_auto
+cranecanopy.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262140,0,none
+creality.com,,Next.js,Google Analytics 4|Google Tag Manager,,False,256957,262078,none
+createur.com,,Next.js,Google Analytics 4,,False,143857,0,none
+credobeauty.com,Shopify,,Google Analytics 4|Google Tag Manager|Triple Whale,PayPal|Shop Pay,False,262141,262142,shopify_auto
+creeksidenursery.com,,,Google Analytics 4,,False,29232,0,none
+crepprotect.com,Shopify,,FullStory|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|Microsoft Clarity|Triple Whale,Affirm|Afterpay|PayPal|Shop Pay,False,262128,0,none
+criquetshirts.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262015,262044,shopify_auto
+crossrope.com,Shopify,,Attentive|Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Rebuy|TikTok Pixel|Triple Whale|Universal Analytics,PayPal|Shop Pay,False,262061,0,shopify_auto
+crownresorts.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,262054,0,none
+crua.com,,,,,False,3956,0,none
+culturekings.com,Shopify,SvelteKit,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,True,262122,262108,shopify_auto
+cupofarms.com,Magento / Adobe Commerce,,Google Tag Manager,,False,55143,0,none
+curie.com,Drupal,,Google Analytics 4|Meta Pixel|Pinterest Tag,,False,262132,0,soft_404
+curology.com,,,Google Analytics 4,,False,262084,262109,none
+currentbody.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262051,262016,shopify_auto
+customink.com,,,Google Tag Manager|Klaviyo Onsite|New Relic,,False,262144,215797,none
+cutsclothing.com,Shopify,Hydrogen,Google Analytics 4|Google Tag Manager|Snapchat Pixel,,True,262101,262078,none
+cuyana.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,261883,0,shopify_auto
+cykloteket.com,,,Google Analytics 4|Google Tag Manager|Meta Pixel,,False,260987,0,none
+cynthiarowley.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Loop Returns|Meta Pixel|Microsoft Clarity|Pinterest Tag|TikTok Pixel,PayPal|Shop Pay,False,239942,0,shopify_auto
+dagnedover.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Triple Whale|Yotpo,PayPal|Shop Pay,False,262077,262075,shopify_auto
+dailyharvest.com,Shopify,,Attentive|Bing UET|FullStory|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262126,262124,shopify_auto
+daiso.com,,,Google Analytics 4|Universal Analytics,,False,65985,0,none
+dalfilo.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Meta Pixel|Microsoft Clarity|Trustpilot|VWO,PayPal|Shop Pay,False,261954,0,shopify_auto
+danielwellington.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Northbeam,Afterpay|PayPal|Shop Pay,False,262126,0,shopify_auto
+darche.com,,,,,False,114,0,manual
+daviddonahue.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262144,262140,shopify_auto
+davidsbridal.com,Shopify,Remix,Google Analytics 4,,True,262108,0,none
+deathwishcoffee.com,Shopify,,Bazaarvoice|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262130,262137,shopify_auto
+decathlon.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262118,262115,shopify_auto
+decked.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Heap|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay,False,231975,262138,shopify_auto
+decorsteals.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262068,262006,shopify_auto
+delugs.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262127,262127,shopify_auto
+denimtears.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Rebuy|Tapcart,PayPal|Shop Pay,False,261954,262119,shopify_auto
+dermalogica.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Yotpo,PayPal|Shop Pay,False,262135,262099,manual
+desky.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262087,262088,shopify_auto
+deux.co,,,Google Analytics 4|Google Tag Manager|New Relic,,False,262125,0,none
+deuxpardeux.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,261972,0,shopify_auto
+dianevonfurstenberg.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Tapcart|TikTok Pixel|Yotpo,PayPal|Shop Pay,False,262140,0,none
+diaspora.com,,,,,False,114,0,manual
+diff.com,Wix,,Google Analytics 4,,False,262122,0,manual
+dime.com,WordPress|PrestaShop,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Hotjar,,False,262102,0,none
+dkny.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Microsoft Clarity,AmazonPay (legacy)|PayPal|Shop Pay,False,262089,262098,manual
+doebeauty.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|TikTok Pixel|Triple Whale,PayPal|Shop Pay,False,262100,262087,shopify_auto
+doelashes.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|TikTok Pixel|Triple Whale,PayPal|Shop Pay,False,262100,0,none
+dollarshaveclub.com,Shopify,,Bazaarvoice|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262130,262108,shopify_auto
+domu.com,Drupal,,Google Analytics 4|Google Tag Manager,,False,168368,0,none
+donaldrussell.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,261417,261814,shopify_auto
+doseofcolors.com,Shopify,,Google Analytics 4|Klaviyo Onsite|LoyaltyLion|Triple Whale,PayPal|Shop Pay,False,262132,0,shopify_auto
+dr-sams.com,Squarespace,,Google Analytics 4|Universal Analytics,,False,88277,0,none
+drbronners.com,Shopify,,Attentive|Bazaarvoice|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Northbeam,PayPal|Shop Pay,False,262143,0,none
+dressbarn.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Meta Pixel|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262116,262110,shopify_auto
+drizly.shop,,,,,False,114,0,soft_404
+drsquatch.com,Shopify,Hydrogen,Google Analytics 4|Google Tag Manager|New Relic,Shop Pay,True,262090,262101,none
+dryeyerescue.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262108,261990,shopify_auto
+duer.com,,,,,False,114,0,manual
+dunhill.com,Salesforce Commerce Cloud,,Google Analytics 4|Google Tag Manager,,False,124799,0,none
+duradry.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Octane AI|Rebuy|VWO,PayPal|Shop Pay,False,262082,262067,shopify_auto
+easyspirit.com,Shopify,,Crazy Egg|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Tapcart,PayPal|Shop Pay,False,262128,262128,shopify_auto
+easystandard.shop,,,Google Analytics 4,,False,80329,0,none
+eaze.com,WordPress,Next.js,Google Analytics 4,,False,157272,0,none
+ebdenim.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,261993,262021,shopify_auto
+ecigdistributors.com,,,,,False,114,0,manual
+ecoflow.com,Shopify,,Bazaarvoice|Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Meta Pixel|Triple Whale|Universal Analytics,PayPal|Shop Pay,False,261964,261922,shopify_auto
+edenpark.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4,,False,222091,192337,none
+edgardcooper.com,Shopify,,Bazaarvoice|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,Shop Pay,False,261606,0,none
+eightsleep.com,,Next.js,Google Analytics 4,,False,262082,262139,soft_404
+ekster.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262099,262105,shopify_auto
+eleatcereal.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Loox|Skio|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262080,262089,shopify_auto
+elevatedfaith.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262085,0,none
+elite-eleven.com,,,,,False,114,0,soft_404
+elkspringsresort.com,WordPress,SvelteKit,Bing UET|Google Analytics 4|Google Tag Manager|Meta Pixel,,False,164526,0,soft_404
+ellanacosmetics.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Loox,Shop Pay,False,262110,262056,shopify_auto
+emailexperience.com,,,,,False,114,0,manual
+emarinella.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262142,262142,shopify_auto
+emazinglights.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Tapcart,PayPal|Shop Pay,False,262124,0,none
+emijay.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Tapcart,Afterpay|PayPal|Shop Pay,False,247855,261965,shopify_auto
+emmabridgewater.com,Shopify,,Cookiebot / OneTrust|FullStory|Google Analytics 4|Google Tag Manager|Trustpilot,Klarna|PayPal|Shop Pay,False,262106,262103,shopify_auto
+emuaid.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Northbeam|Rebuy|Shogun,PayPal|Shop Pay,False,262106,262091,shopify_auto
+endorphins.com,,,Google Analytics 4|Google Tag Manager|Hotjar|LinkedIn Insight|Meta Pixel,Stripe,False,46445,0,soft_404
+endorphinsrunning.com,Webflow,,Google Analytics 4|Meta Pixel,,False,107645,0,none
+engold.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262108,0,shopify_auto
+eos.com,WordPress|PrestaShop,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,262125,262118,soft_404
+escaladesports.com,Shopify,,Bazaarvoice|Google Analytics 4|Klaviyo Onsite|Optimizely,Affirm|PayPal|Shop Pay,False,261873,221197,shopify_auto
+esmiskinminerals.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Octane AI|Rebuy|Triple Whale,PayPal|Shop Pay,False,262050,262048,shopify_auto
+estellecoloredglass.com,Shopify|Webflow,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262144,262101,shopify_auto
+estherandco.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262119,262119,shopify_auto
+ethique.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|LoyaltyLion|Rebuy,PayPal|Shop Pay,False,262083,262062,none
+eurekarestaurantgroup.com,,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|Universal Analytics,,False,174660,0,soft_404
+evereve.com,Shopify,,Google Analytics 4|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|VWO,Shop Pay,False,262120,0,shopify_auto
+everlane.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|New Relic,PayPal|Shop Pay,False,262118,262118,shopify_auto
+everlast.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|LoyaltyLion,PayPal|Shop Pay,False,262138,262143,shopify_auto
+everymanjack.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Rebuy,PayPal|Shop Pay,False,262117,262129,shopify_auto
+evestar.com,WordPress,,Google Analytics 4|Google Tag Manager|Meta Pixel|TikTok Pixel,,False,99809,0,none
+ezbombs.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite,Afterpay|Amazon Pay|PayPal|Shop Pay,False,262092,262074,shopify_auto
+fable.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262085,262093,shopify_auto
+fabletics.com,,Next.js,Cookiebot / OneTrust|Google Analytics 4|Segment|Sentry,,False,262139,0,none
+faherty.com,,,Universal Analytics,,False,20639,0,none
+fairfax.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|Microsoft Clarity,,False,160833,0,none
+fanjoy.com,,,Google Analytics 4,,False,68639,0,soft_404
+farmhounds.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262090,262080,shopify_auto
+farrows.com,,,,,False,114,0,manual
+fashionnova.com,Shopify,,Google Analytics 4,,False,262137,262130,manual
+fathead.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Microsoft Clarity|Rebuy|TikTok Pixel,Stripe,False,262132,262130,shopify_auto
+fauchon.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,261887,261916,shopify_auto
+feals.com,Shopify,,Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Rebuy|Triple Whale,Shop Pay,False,262138,262136,shopify_auto
+feastables.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262143,262126,shopify_auto
+fieldcompany.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,261467,261818,shopify_auto
+fiestatableware.com,,,Google Analytics 4,,False,67688,0,none
+fillingpieces.com,Shopify,,Bing UET|Google Analytics 4|Hotjar|Klaviyo Onsite|Microsoft Clarity|TikTok Pixel,PayPal|Shop Pay,False,262113,0,shopify_auto
+filson.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262137,262141,shopify_auto
+filtrous.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar,Shop Pay,False,262016,0,shopify_auto
+finisterre.com,Shopify,,Google Analytics 4,AmazonPay (legacy)|PayPal|Shop Pay,False,262029,0,shopify_auto
+finn.com,,Next.js,Google Analytics 4|Trustpilot,,False,261609,0,soft_404
+firebelly.com,,,,,False,114,0,soft_404
+firedeptcoffee.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,261517,261545,shopify_auto
+fishwife.com,,,Google Analytics 4,,False,5907,0,soft_404
+fjellsport.com,,,,,False,114,0,manual
+flaviar.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Northbeam|Trustpilot,Shop Pay,False,262104,262128,shopify_auto
+flewd.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Octane AI|Triple Whale|Yotpo,PayPal|Shop Pay,False,262124,262112,shopify_auto
+flock.com,,,Google Analytics 4|Google Tag Manager|Hotjar|Meta Pixel|Universal Analytics,,False,63648,0,none
+flowwater.com,Shopify,,Google Analytics 4|Gorgias|Microsoft Clarity,Shop Pay,False,262100,0,none
+flybubble.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262023,261935,shopify_auto
+folkclothing.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,261959,262027,shopify_auto
+forceofnature.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,261286,261199,shopify_auto
+fordays.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Northbeam|Rebuy,PayPal|Shop Pay,False,216580,261799,shopify_auto
+forothers.com,WordPress,,Google Tag Manager,,False,236682,0,manual
+foursigmatic.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy|Triple Whale,PayPal|Shop Pay,False,262080,261998,shopify_auto
+framebridge.com,Shopify,,Google Analytics 4|Heap|Klaviyo Onsite,Shop Pay,False,262104,262114,shopify_auto
+franc.co,,,,,False,114,0,manual
+francfranc.com,Shopify,,Google Analytics 4|Google Tag Manager,Shop Pay,False,239537,0,shopify_auto
+frank.com,,Next.js,Cookiebot / OneTrust|Google Analytics 4,,False,261541,0,soft_404
+frankie4.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Yotpo,PayPal|Shop Pay,False,262074,262074,shopify_auto
+freetheroots.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262069,262069,shopify_auto
+freshchileco.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Triple Whale,Afterpay|PayPal|Shop Pay,False,262126,262118,shopify_auto
+freshcleanthreads.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Gorgias|Heap|Klaviyo Onsite|Microsoft Clarity|Rebuy|Triple Whale,PayPal|Shop Pay,False,262078,262086,shopify_auto
+freshlycosmetics.com,PrestaShop,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,Klarna,False,221775,0,none
+freshpatch.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262096,262084,shopify_auto
+frey.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Northbeam|Triple Whale,PayPal|Shop Pay,False,262108,0,shopify_auto
+fromfuture.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,261782,261594,shopify_auto
+frostbuddy.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,261603,261606,shopify_auto
+fuegodance.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay|Stripe,False,262007,262031,shopify_auto
+function18.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|LoyaltyLion,PayPal|Shop Pay,False,262049,261975,shopify_auto
+functionofbeauty.com,,,VWO,,False,262142,262142,shopify_auto
+funkitwellness.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,261994,262012,shopify_auto
+funnyfuzzy.com,Shopify,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,Afterpay|PayPal|Shop Pay,True,260566,260612,shopify_auto
+gainsinbulk.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale|Yotpo,PayPal|Shop Pay,False,262108,262089,shopify_auto
+garrettpopcorn.com,BigCommerce,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|Pinterest Tag|VWO|Yotpo,Klarna,False,73280,0,none
+geektropical.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Loox|Rebuy,PayPal|Shop Pay,False,261864,261855,shopify_auto
+geologie.com,Shopify,,Google Analytics 4|Octane AI,PayPal|Shop Pay,False,261656,261704,shopify_auto
+georgiemane.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Snapchat Pixel|TikTok Pixel|Triple Whale,PayPal|Shop Pay,False,262065,262045,shopify_auto
+gesswein.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262129,0,shopify_auto
+gfuel.com,Shopify,,Google Analytics 4|Octane AI,Afterpay|PayPal|Shop Pay,False,262129,262130,shopify_auto
+ghostbed.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|TikTok Pixel|Triple Whale,Affirm|PayPal|Shop Pay,False,262081,262051,shopify_auto
+giesswein.com,Shopify,,Cookiebot / OneTrust|Google Tag Manager,,False,262012,262008,shopify_auto
+girlswithgems.com,Shopify,,Google Analytics 4|Gorgias|Microsoft Clarity|Triple Whale,Afterpay|Google Pay|PayPal|Shop Pay,False,262141,0,shopify_auto
+giva.com,,,,,False,10670,0,none
+gizio.com,,,,,False,114,0,manual
+glamnetic.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Northbeam|Rebuy,PayPal|Shop Pay,False,262082,261953,shopify_auto
+glamrdip.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,261993,262014,shopify_auto
+glasvin.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Rebuy,Shop Pay,False,261952,262043,shopify_auto
+gleefull.com,,,,,False,114,0,soft_404
+glossier.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Optimizely|Yotpo,Afterpay|PayPal|Shop Pay,False,262106,262055,shopify_auto
+glow25.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,261712,0,shopify_auto
+glowforge.com,Shopify,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,Affirm|Klarna|PayPal|Shop Pay,True,262121,262095,none
+glowrecipe.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|LoyaltyLion|TikTok Pixel,Google Pay|PayPal|Shop Pay,False,261982,0,shopify_auto
+goatfoods.com,Webflow,,Google Analytics 4|Microsoft Clarity,,False,135480,0,none
+golde.com,,,Google Analytics 4,,False,42464,0,none
+goldenhippo.com,Squarespace,,Google Analytics 4|Universal Analytics,,False,262144,0,none
+golfkicks.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,114300,261792,shopify_auto
+goodamerican.com,Shopify,Remix|Hydrogen,Google Analytics 4|Google Tag Manager,,True,261809,261969,none
+goodr.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Yotpo,PayPal|Shop Pay,False,262144,262144,shopify_auto
+goodranchers.com,Shopify,,Bing UET|Google Analytics 4|Hotjar|Klaviyo Onsite|Optimizely|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262100,262130,shopify_auto
+gorillabow.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Loox|Triple Whale,PayPal|Shop Pay,False,261991,262043,shopify_auto
+gourmetgiftbaskets.com,,,Bing UET|FullStory|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|Universal Analytics|Yotpo,,False,247598,0,none
+gozney.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Rebuy|Trustpilot,PayPal|Shop Pay,False,262075,262065,shopify_auto
+grace.com,,,Adobe Launch / DTM|Cookiebot / OneTrust|Google Analytics 4,,False,99219,261962,none
+grasslandmarket.com,,,,,False,7598,0,none
+gratsi.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Hotjar|Junip|Klaviyo Onsite|Northbeam|Triple Whale,PayPal|Shop Pay,False,261987,262060,shopify_auto
+graza.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI|Triple Whale,PayPal|Shop Pay,False,261750,0,none
+grecogum.com,Shopify,Hydrogen,Google Analytics 4|Junip|Klaviyo Onsite|Meta Pixel,,True,191801,261896,none
+greengoo.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Loox|Microsoft Clarity|Triple Whale|Trustpilot,Amazon Pay|PayPal|Shop Pay,False,262108,262108,shopify_auto
+greshamblake.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,261974,261968,shopify_auto
+grind.com,,,Google Tag Manager|Universal Analytics,,False,2296,0,none
+grinds.com,,,Google Analytics 4|Universal Analytics,,False,14801,0,none
+grns.com,,,Google Analytics 4|Google Tag Manager|Universal Analytics,,False,33247,0,soft_404
+groupemarcelle.com,Shopify,,Google Analytics 4|Microsoft Clarity,PayPal|Shop Pay,False,261865,0,shopify_auto
+grovecollaborative.com,Shopify,,Bazaarvoice|Google Analytics 4|Heap,PayPal|Shop Pay,False,262134,0,soft_404
+growoya.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Loox|Microsoft Clarity,PayPal|Shop Pay,False,262048,261875,shopify_auto
+gruns.co,Shopify,,Google Analytics 4|Klaviyo Onsite|Northbeam,PayPal|Shop Pay,False,262049,261948,shopify_auto
+gruntstyle.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale,Afterpay|PayPal|Shop Pay,False,262123,0,manual
+guideposts.com,WooCommerce|WordPress|PrestaShop,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|New Relic,,False,262142,0,none
+gunnerkennels.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Rebuy|Yotpo,PayPal|Shop Pay,False,262049,0,none
+guruenergy.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,Shop Pay,False,262136,262129,manual
+gurunanda.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262074,262092,shopify_auto
+gymshark.com,Shopify,,Bazaarvoice|Google Analytics 4,PayPal|Shop Pay,False,41048,0,shopify_auto
+haakaa.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,262138,262138,shopify_auto
+halfdays.com,Shopify,,Bazaarvoice|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Rebuy|Triple Whale,Shop Pay,False,262041,262136,shopify_auto
+hammitt.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262144,0,shopify_auto
+happyhippo.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale,Shop Pay,False,262121,262072,shopify_auto
+happymammoth.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262050,262056,shopify_auto
+happyv.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite|Octane AI|Segment|Triple Whale|VWO|Yotpo,PayPal|Shop Pay,False,262081,262079,shopify_auto
+happyviking.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,Shop Pay,False,261976,262004,shopify_auto
+happywax.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Octane AI|Rebuy|Triple Whale,PayPal|Shop Pay,False,262099,262108,shopify_auto
+happyway.com,,,,,False,139,0,none
+hardyakka.com,Salesforce Commerce Cloud,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,False,181683,0,soft_404
+harneysons.com,,,,,False,114,0,manual
+harperwilde.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,Shop Pay,False,262088,261686,shopify_auto
+harryrosen.com,,Next.js,Google Analytics 4,,False,262125,0,soft_404
+harrys.com,Shopify,Remix,Google Analytics 4|Google Tag Manager,,True,261960,0,none
+hart.com,,,Google Analytics 4|Google Tag Manager,,False,224145,0,manual
+hasbropulse.com,,,Datadog RUM|Shogun,PayPal,False,262144,262144,none
+hatclub.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy,Afterpay|PayPal|Shop Pay,False,262003,261936,shopify_auto
+healf.com,Shopify,Next.js,Google Analytics 4|Google Tag Manager,,True,262112,0,none
+healthymetal.com,,,,,False,114,0,manual
+heartmagiccacao.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262088,0,shopify_auto
+heatonist.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262132,0,shopify_auto
+hedleyandbennett.com,Shopify,Remix|Hydrogen,Google Analytics 4|Google Tag Manager|Gorgias|Microsoft Clarity,,True,262064,262045,soft_404
+hedleybennett.com,Shopify,Remix,Google Analytics 4|Google Tag Manager|Gorgias|Microsoft Clarity,,True,262064,0,none
+heights.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Octane AI|Triple Whale,Afterpay|PayPal|Shop Pay,False,262092,262060,none
+heiststudios.com,,,,,False,114,0,manual
+hellobello.com,,Next.js,Google Analytics 4,,False,262041,0,none
+helloworld.com,,,,,False,19405,0,none
+heritagesteel.com,WooCommerce|WordPress,,Google Analytics 4|Google Tag Manager,,False,262140,0,none
+herlipto.com,,,,,False,17516,0,none
+herthabsc.com,,Nuxt.js,Google Tag Manager,,False,262065,0,none
+hexclad.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Northbeam|Rebuy,PayPal|Shop Pay,False,262095,262077,shopify_auto
+hikoco.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,Shop Pay,False,262112,0,shopify_auto
+himshers.co,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,32895,0,soft_404
+himshershealth.com,,,,,False,114,0,soft_404
+hint.com,,,Google Analytics 4|Google Tag Manager|Hotjar|LinkedIn Insight,,False,262100,0,none
+holy.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion,PayPal|Shop Pay,False,262002,0,shopify_auto
+homefield.com,WordPress|PrestaShop,,Google Analytics 4|Universal Analytics,,False,24972,0,none
+hommey.com,WordPress,,Google Analytics 4,,False,58080,0,none
+honest.com,Shopify,,Bazaarvoice|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262093,261907,shopify_auto
+honeybirdette.com,Shopify,,Attentive|Google Analytics 4|Triple Whale,PayPal|Shop Pay,False,262064,0,shopify_auto
+hoonigan.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262132,262132,shopify_auto
+hopwtr.com,Shopify,,Attentive|Bazaarvoice|Google Analytics 4|Google Tag Manager|Gorgias|TikTok Pixel|Yotpo,PayPal|Shop Pay,False,262134,262134,shopify_auto
+houseofchikankari.com,,,Google Analytics 4|Universal Analytics,,False,44052,0,soft_404
+hudabeauty.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262106,0,shopify_auto
+huel.com,Shopify,Next.js,Google Tag Manager,,True,262114,262110,none
+huha.com,,,Google Analytics 4|Universal Analytics,,False,7503,0,none
+hunter.com,,,Google Analytics 4|Google Tag Manager,,False,251318,0,soft_404
+huron.com,WordPress,,Google Analytics 4,,False,171958,0,none
+hush.com,,,Google Analytics 4|Trustpilot|Universal Analytics,,False,190166,0,none
+hydromate.com,Shopify,,Google Analytics 4|Gorgias|Yotpo,,False,262128,0,shopify_auto
+hyloathletics.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,262108,262124,shopify_auto
+ilia.com,,,Google Analytics 4|Universal Analytics,,False,8340,0,none
+iliabeauty.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Octane AI,PayPal|Shop Pay,False,262004,262027,shopify_auto
+imgadgets.com,Shopify,,Bing UET|Google Analytics 4|Microsoft Clarity,PayPal|Shop Pay,False,262007,262140,shopify_auto
+impactdogcrates.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Triple Whale,PayPal|Shop Pay,False,262126,262126,shopify_auto
+inaessentials.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite,Shop Pay,False,253534,244283,shopify_auto
+incu.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262124,262112,shopify_auto
+inheritclothing.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity,PayPal|Shop Pay,False,262080,0,none
+innonature.co,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite|Microsoft Clarity|New Relic|Trustpilot|Universal Analytics,PayPal|Shop Pay,False,261832,261788,shopify_auto
+innopharmaeducation.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|TikTok Pixel,,False,122036,0,none
+innosupps.com,Shopify,,Datadog RUM|Microsoft Clarity,,False,262002,0,shopify_auto
+insanelabz.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262111,261900,none
+insertnamehere.com,Squarespace,,Google Analytics 4,,False,97273,0,none
+inspiir.com,,,,,False,114,0,manual
+instanthydration.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Northbeam,PayPal|Shop Pay,False,261884,261966,shopify_auto
+intakebreathing.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Loox|Microsoft Clarity|VWO,Afterpay|PayPal|Shop Pay,False,260644,262006,none
+internationalmilitaryantiques.com,Shopify,,Bing UET|Google Analytics 4|Hotjar|Klaviyo Onsite|TikTok Pixel,PayPal|Shop Pay,False,262133,0,none
+inveterate.com,Webflow,,Google Analytics 4|Google Tag Manager,,False,142270,0,none
+italist.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262135,262135,shopify_auto
+itokri.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262027,261979,shopify_auto
+jabraenhance.com,,Next.js,Google Analytics 4,,False,117329,261841,soft_404
+jackedupfitness.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4|Hotjar|Meta Pixel,,False,262140,262136,none
+jackerwin.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Rebuy|Triple Whale,PayPal|Shop Pay,False,262108,262108,shopify_auto
+jackrogers.co,,,Google Analytics 4,,False,3134,0,soft_404
+jadedlondon.com,,,,,False,7712,0,soft_404
+jamieoliver.com,,Astro,Google Analytics 4,,False,262124,262128,none
+jaxxon.com,Shopify,Hydrogen,Google Analytics 4,,True,262130,262077,none
+jbalvin.com,Shopify,,Google Analytics 4,Shop Pay,False,260676,262064,shopify_auto
+jbhifi.shop,,,,,False,114,0,soft_404
+jco.us,,,,,False,4170,0,soft_404
+jeffdebruges.com,,,Google Tag Manager,,False,262116,0,soft_404
+jeffreestarcosmetics.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Rebuy,Shop Pay,False,262082,262078,shopify_auto
+jennikayne.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,262102,262099,shopify_auto
+jibbycoffee.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,88758,0,none
+jigsaw.co,Wix,,Google Analytics 4,,False,262120,0,manual
+jimmyjoy.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Recharge|Triple Whale,PayPal|Shop Pay,False,262108,262104,shopify_auto
+jlindeberg.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,261603,261593,shopify_auto
+johnnieo.com,Shopify,Remix,Google Analytics 4,,True,262048,0,soft_404
+johodesignstudio.com,,,,,False,114,0,soft_404
+jojomamanbebe.co,,,,,False,114,0,manual
+jonesroad.com,,,,,False,44048,0,none
+jonesroadbeauty.com,Shopify,,Google Analytics 4|Junip|Klaviyo Onsite|Northbeam|Octane AI,PayPal|Shop Pay,False,262130,262118,shopify_auto
+jordancraig.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262082,0,shopify_auto
+josephjoseph.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Yotpo,Afterpay|PayPal|Shop Pay,False,262130,0,shopify_auto
+josiemaran.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Rebuy|Triple Whale,Afterpay|PayPal|Shop Pay,False,226289,213313,none
+jot.co,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262128,262137,shopify_auto
+jott.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,261746,0,shopify_auto
+juicedbikes.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262033,262069,shopify_auto
+july.com,Shopify,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|Pinterest Tag,,True,262114,0,none
+juneshine.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Triple Whale,Shop Pay,False,167550,187821,shopify_auto
+jungalow.com,Squarespace,,Google Analytics 4,,False,262142,0,none
+jungluck.com,,,,,False,85435,0,none
+justingredients.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Gorgias|Northbeam|Tapcart,Afterpay|PayPal|Shop Pay,False,262122,0,shopify_auto
+jwpei.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262087,262081,shopify_auto
+kaged.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Octane AI|Triple Whale,PayPal|Shop Pay,False,261883,261959,shopify_auto
+kamakurabeniya.com,Shopify,,Google Analytics 4|Google Tag Manager,Shop Pay,False,259327,256247,shopify_auto
+kanro.com,,,,,False,114,0,manual
+kashbeauty.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Loox|Microsoft Clarity|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262086,262100,shopify_auto
+katehewko.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262036,262019,shopify_auto
+kathmandu.com,,,,,False,1652,0,none
+keapathletics.com,Shopify,,Google Analytics 4|Gorgias|Junip,PayPal|Shop Pay,False,236213,262134,none
+keen.com,,Next.js,Google Analytics 4,,False,262084,0,none
+kennyflowers.com,Shopify,,Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Northbeam|Triple Whale,PayPal|Shop Pay,False,262122,262044,shopify_auto
+keyzarjewelry.com,Shopify,Remix,Cookiebot / OneTrust|Google Analytics 4|Trustpilot,,True,262141,262141,none
+kickassproducts.com,Shopify,,Google Analytics 4|Yotpo,PayPal|Shop Pay,False,186311,0,shopify_auto
+killstar.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale|Trustpilot,PayPal|Shop Pay,False,261928,261941,shopify_auto
+kimbo.com,,,,,False,294,0,none
+kindpatches.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Octane AI|Rebuy|Triple Whale,PayPal|Shop Pay,False,262041,262003,shopify_auto
+kinto.com,Drupal,,Google Analytics 4,,False,16794,0,none
+kitsch.com,Shopify,,Google Analytics 4,Afterpay|PayPal|Shop Pay,False,262103,262103,soft_404
+kitsie.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,44336,0,none
+kizik.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Loop Returns|Octane AI,AmazonPay (legacy)|PayPal|Shop Pay,False,262061,262063,shopify_auto
+kmtools.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,261623,261869,shopify_auto
+knix.com,Shopify,,Attentive|Google Analytics 4|Northbeam|Rebuy,Afterpay|PayPal|Shop Pay,False,262086,262122,shopify_auto
+knya.com,,,Google Analytics 4|Google Tag Manager|Hotjar|LinkedIn Insight|Meta Pixel,Stripe,False,52787,0,soft_404
+koalaeco.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262108,262098,shopify_auto
+koh.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,261656,261635,shopify_auto
+kollectionk.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4,,False,219230,0,none
+kongesslojd.com,,,,,False,114,0,manual
+kooks.com,,,,,False,988,0,soft_404
+kopari.com,Shopify,,Cookiebot / OneTrust|Crazy Egg|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Rebuy|Triple Whale,Afterpay|PayPal|Shop Pay,False,262086,0,none
+kotn.com,Shopify,Next.js,Google Analytics 4|Gorgias|Meta Pixel,,True,261999,180909,soft_404
+kravebeauty.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Triple Whale,Afterpay|PayPal|Shop Pay,False,262088,262062,shopify_auto
+kswiss.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Loox|Microsoft Clarity|Trustpilot,Amazon Pay|PayPal|Shop Pay,False,262119,262089,shopify_auto
+kulanikini.com,,,Google Analytics 4|Google Tag Manager|Meta Pixel|New Relic,,False,262133,0,none
+kulanikinis.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262108,262108,shopify_auto
+kurand.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,Shop Pay,False,227261,227134,shopify_auto
+kway.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262117,0,shopify_auto
+kyliecosmetics.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,AmazonPay (legacy)|PayPal|Shop Pay,False,262028,262028,shopify_auto
+lairdsuperfood.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Northbeam|Rebuy|Yotpo,PayPal|Shop Pay,False,262136,262142,shopify_auto
+lakor.com,,,,,False,114,0,manual
+lalo.com,Shopify,,Google Analytics 4|Meta Pixel,PayPal|Shop Pay,False,170404,221795,shopify_auto
+lamaisonconvertible.com,Shopify,,Google Analytics 4|Google Tag Manager|Trustpilot,PayPal|Shop Pay,False,261832,261778,shopify_auto
+lamarue.com,,,,,False,114,0,manual
+lambert.com,WordPress,,Google Analytics 4|LinkedIn Insight|Meta Pixel,,False,67504,0,none
+lamy.com,Shopify,,Google Analytics 4,,False,261895,0,none
+larosee.us,,,,,False,114,0,manual
+larroude.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,261987,261958,shopify_auto
+lashify.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Loox|Microsoft Clarity|Northbeam|Rebuy|Triple Whale,PayPal|Shop Pay,False,262031,261968,none
+laticoleathers.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI|Triple Whale,PayPal|Shop Pay,False,262100,262052,shopify_auto
+laura-james.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Pinterest Tag|Yotpo,Afterpay|PayPal|Shop Pay,False,262123,262089,shopify_auto
+laurageller.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI|Triple Whale,PayPal|Shop Pay,False,262047,0,shopify_auto
+lazrus.com,,,,,False,114,0,manual
+lechameau.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|TikTok Pixel,Afterpay|PayPal|Shop Pay,False,261792,0,shopify_auto
+leesa.com,,Next.js,Google Analytics 4|Google Tag Manager|Optimizely,,False,262144,262126,manual
+legalseafoods.com,WordPress,,Google Tag Manager|Microsoft Clarity,Stripe,False,262133,0,none
+legendaryfoods.com,,,,,False,114,0,soft_404
+leonisa.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Reddit Pixel|Triple Whale,PayPal|Shop Pay,False,262056,262084,none
+lepantalon.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,Shop Pay,False,261772,0,shopify_auto
+lepetitballon.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Reddit Pixel,PayPal|Shop Pay,False,261861,261819,manual
+lesportsac.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262101,0,shopify_auto
+lesraffineurs.com,PrestaShop,,Google Analytics 4|Google Tag Manager|Trustpilot,,False,261594,0,manual
+letanneur.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,258886,259041,shopify_auto
+letterkenny.com,,,,,False,5053,0,none
+lifeinteriors.com,,,,,False,114,0,soft_404
+lifestraw.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262139,262107,shopify_auto
+lilacst.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Octane AI|Triple Whale,Shop Pay,False,262088,262128,shopify_auto
+linksoul.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay,False,261860,261844,shopify_auto
+lionbrandyarn.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262099,262043,shopify_auto
+lippyclip.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262050,262050,shopify_auto
+liquiddeath.com,Shopify,,Bazaarvoice|Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Rebuy,Afterpay|PayPal|Shop Pay,False,262119,0,shopify_auto
+liquidiv.com,Shopify,Hydrogen,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,True,262037,262037,soft_404
+liquorloot.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay,False,262132,262115,shopify_auto
+littlesaints.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262098,262004,none
+littlesleepies.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Northbeam,Afterpay|PayPal|Shop Pay,False,262078,262050,shopify_auto
+littlewordsproject.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,Afterpay|PayPal|Shop Pay,False,262064,0,none
+livefastdieyoung.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262021,0,shopify_auto
+livingproof.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Northbeam,PayPal|Shop Pay,False,262119,261991,shopify_auto
+lola.com,,,Google Analytics 4,,False,230793,0,none
+lolas-cupcakes.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Trustpilot,Shop Pay,False,262133,262133,soft_404
+lomi.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Northbeam,PayPal|Shop Pay,False,262116,262077,shopify_auto
+loopearplugs.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Trustpilot,Google Pay|PayPal|Shop Pay,False,261083,261240,shopify_auto
+lord.com,,,,,False,2485,0,soft_404
+lordjones.com,WordPress|PrestaShop,,,,False,33550,0,none
+lordsandlabradors.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,262130,262058,shopify_auto
+lotusluna.com,,,,,False,114,0,soft_404
+loungeunderwear.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Microsoft Clarity,PayPal|Shop Pay,False,119640,0,shopify_auto
+loverboy.co,,,Google Analytics 4,,False,36849,0,none
+lovevery.com,Shopify,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|New Relic,,True,262105,0,none
+loveyourmelon.com,Shopify,,Google Analytics 4,Shop Pay,False,262060,262068,shopify_auto
+lskd.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262136,262140,shopify_auto
+luckysaint.com,,,,,False,870,0,none
+lull.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale,Affirm|PayPal|Shop Pay,False,262028,262000,shopify_auto
+lulu.com,,Next.js,Google Analytics 4,,False,261932,0,none
+lumanutrition.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Skio|Triple Whale,,False,262138,262112,shopify_auto
+luno.com,,,Amplitude|Google Tag Manager,,False,262136,0,none
+lushcosmetics.com,,,,,False,114,0,manual
+luvmehair.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,261838,261754,shopify_auto
+luxorlinens.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|TikTok Pixel,PayPal|Shop Pay,False,262139,0,shopify_auto
+lvly.io,,Next.js,Google Analytics 4,,False,202534,0,none
+lyres.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale|Yotpo,PayPal|Shop Pay,False,262057,262077,shopify_auto
+macduggal.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Northbeam,PayPal|Shop Pay,False,262098,262097,shopify_auto
+madebymary.com,Shopify,Remix|Hydrogen,Google Analytics 4|Google Tag Manager,,True,262040,262034,none
+madrabbit.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|TikTok Pixel,PayPal|Shop Pay,False,262112,262120,shopify_auto
+maggylondon.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Loop Returns,PayPal|Shop Pay,False,261870,261870,shopify_auto
+magicmind.com,Shopify|Webflow,,Bazaarvoice|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI|Skio,PayPal|Shop Pay,False,262100,262130,manual
+magicspoon.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262048,262070,shopify_auto
+magnolia.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Yotpo,PayPal|Shop Pay,False,262123,262125,shopify_auto
+mainelobsternow.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,Shop Pay,False,262140,262128,manual
+makari.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262126,262144,shopify_auto
+makerflo.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,PayPal|Sezzle|Shop Pay,False,262144,262144,shopify_auto
+malys.com,,,Google Analytics 4,,False,86896,0,none
+mandauefoam.com,,Astro,Google Analytics 4,,False,29311,0,soft_404
+manduka.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Rebuy,Afterpay|PayPal|Shop Pay,False,262123,262072,shopify_auto
+manlybands.com,Shopify,Remix|Hydrogen,Google Analytics 4|Google Tag Manager,,True,262025,0,manual
+manmade.com,,,,,False,10701,0,none
+manscaped.com,Shopify,,Google Analytics 4,,False,262124,262036,none
+manucurist.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,261830,0,shopify_auto
+manukora.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262078,262077,shopify_auto
+marcfisherfootwear.com,Shopify,,Bing UET|Crazy Egg|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Tapcart,Shop Pay,False,262132,262136,shopify_auto
+marchhares.com,,,,,False,5129,0,none
+marcjacobs.com,Salesforce Commerce Cloud,,Google Tag Manager|Klaviyo Onsite,Apple Pay,False,262144,0,soft_404
+marinelayer.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262120,262126,shopify_auto
+marleylilly.com,,,Attentive|Google Analytics 4|Google Tag Manager,Amazon Pay,False,262144,132006,none
+maryruthorganics.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Northbeam|Rebuy|Triple Whale,PayPal|Shop Pay,False,262131,262131,shopify_auto
+mastermindtoys.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262127,262127,shopify_auto
+matchabar.com,,,,,False,3617,0,none
+mattelcreations.com,Shopify,,Bazaarvoice|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Optimizely,AmazonPay (legacy)|PayPal|Shop Pay,False,262087,262087,soft_404
+maude.com,,,Google Analytics 4,,False,86211,0,soft_404
+mauinuivenison.com,Shopify,Remix|Hydrogen,Google Analytics 4|Klaviyo Onsite|Meta Pixel|Microsoft Clarity|Polar Analytics|VWO,,True,142031,0,none
+mc2saintbarth.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262133,261952,shopify_auto
+mcdonaldsmonopoly.com,,,,,False,114,0,manual
+meagherspharmacy.com,,,,,False,1853,0,none
+mebius.com,,,,,False,4190,0,soft_404
+mecca.com,,Next.js,Google Analytics 4,,False,262144,0,none
+medik8.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|LoyaltyLion|Microsoft Clarity|Octane AI|Trustpilot,PayPal|Shop Pay,False,262108,262082,shopify_auto
+mejuri.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,Klarna,False,262072,0,soft_404
+melvinhamilton.com,,,,,False,114,0,manual
+memobottle.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262083,262080,shopify_auto
+mercihandy.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|TikTok Pixel|Universal Analytics,PayPal|Shop Pay,False,261682,261579,none
+merkur.com,,,Google Analytics 4|Google Tag Manager,,False,261964,0,none
+merzbschwanen.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262103,261889,shopify_auto
+meshki.com,Shopify,,Google Analytics 4|Google Tag Manager|Microsoft Clarity,Afterpay|PayPal|Shop Pay,False,262108,262114,shopify_auto
+metabolicmeals.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Yotpo,Shop Pay,False,221381,186433,shopify_auto
+metagenics.com,,Next.js,Cookiebot / OneTrust|Google Analytics 4,,False,262124,0,none
+meundies.com,Shopify,Next.js,Bazaarvoice|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,True,261858,0,soft_404
+michaelkors.com,Salesforce Commerce Cloud,,Adobe Launch / DTM|Cookiebot / OneTrust|Google Analytics 4,Apple Pay|Klarna|PayPal,False,202616,0,none
+midnighthour.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy|Triple Whale,PayPal|Shop Pay,False,262137,0,shopify_auto
+migardener.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262121,262129,shopify_auto
+mikihouse.com,Shopify,,,,False,41508,73108,none
+mila.com,,,,,False,114,0,manual
+milkbar.com,,,Universal Analytics,,False,856,0,none
+millieloveslily.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262013,0,shopify_auto
+milligram.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Microsoft Clarity,PayPal|Shop Pay,False,261438,0,shopify_auto
+minikatana.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Northbeam|Triple Whale|Universal Analytics,,False,262092,262099,shopify_auto
+ministryofsupply.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262076,0,shopify_auto
+minnow.co,,,Google Analytics 4|Universal Analytics,,False,16940,0,none
+mixtiles.com,,Remix,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,False,175489,0,soft_404
+mizzen.com,WooCommerce|WordPress,,Bing UET|Google Analytics 4,,False,262143,0,none
+mocka.com,,,,,False,202,0,none
+modifly.com,WordPress|PrestaShop,,Google Tag Manager|Universal Analytics,,False,76445,0,none
+mojocountryclub.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262120,0,shopify_auto
+mokobara.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Recharge,Shop Pay,False,262132,262118,shopify_auto
+molekule.com,Shopify,,Cookiebot / OneTrust|Northbeam,Afterpay|Shop Pay,False,261848,261837,shopify_auto
+mollygreen.com,WordPress|PrestaShop,,Google Analytics 4|Universal Analytics,,False,78929,0,none
+momofuku.com,,Next.js,Google Tag Manager,,False,117998,0,none
+monos.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262054,262000,shopify_auto
+montecarlo.com,,Next.js,Google Tag Manager,,False,261981,0,none
+montedesign.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LinkedIn Insight|TikTok Pixel,Shop Pay,False,95524,124783,shopify_auto
+mood.com,Shopify,Next.js,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Smile.io,,True,262118,262137,none
+moodi.com,Squarespace,,Google Analytics 4,,False,149939,0,soft_404
+moonboon.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262006,261982,shopify_auto
+moonbrew.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Northbeam,Afterpay|PayPal|Shop Pay,False,262082,262082,soft_404
+moonglowjewelry.co,,,,,False,114,0,soft_404
+moonjuice.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|LoyaltyLion|Rebuy,PayPal|Shop Pay,False,262085,262006,shopify_auto
+morenutrition.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI,PayPal|Shop Pay,False,261964,262004,shopify_auto
+morselmunk.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262031,262031,none
+mosh.com,,Next.js,,,False,43626,0,soft_404
+motelamiio.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,261729,0,shopify_auto
+mountaingirlclothing.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,261964,261964,shopify_auto
+moxielash.com,Shopify,Next.js,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,True,261969,243120,none
+mpix.com,,,Google Analytics 4|VWO,,False,262142,0,none
+mrdiy.com,,,Google Analytics 4|Google Tag Manager|Meta Pixel,,False,126483,0,none
+mrroses.com,Shopify,,Google Analytics 4|Google Tag Manager|Microsoft Clarity,PayPal|Shop Pay,False,262140,0,none
+msread.com,,,Google Analytics 4|Universal Analytics,,False,27277,0,none
+muddybites.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262088,249809,shopify_auto
+mudwtr.com,Shopify,,Bazaarvoice|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Northbeam|Rebuy|Tapcart|Triple Whale,PayPal|Shop Pay,False,262094,262098,shopify_auto
+mugsy.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262094,262102,none
+murad.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,261777,261779,shopify_auto
+musclenation.com,,,,,False,114,0,soft_404
+mustangsurvival.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Universal Analytics|Yotpo,PayPal|Shop Pay,False,262128,262134,shopify_auto
+mustardmade.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262118,262139,shopify_auto
+mycommunitymade.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel,,False,262125,0,none
+myfitfoods.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|TikTok Pixel,PayPal,False,177371,262110,none
+mygirlfriendsquiltshoppe.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262123,262123,shopify_auto
+myolivea.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Rebuy,Shop Pay,False,261999,262007,shopify_auto
+mzwallace.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Northbeam,PayPal|Shop Pay,False,261977,261955,shopify_auto
+naali.com,,,,,False,10385,0,soft_404
+nakedcashmere.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Loop Returns|Microsoft Clarity|TikTok Pixel|Triple Whale|Universal Analytics|Yotpo,PayPal|Shop Pay,False,262072,0,shopify_auto
+namuk.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262129,261944,shopify_auto
+naniswimwear.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,Shop Pay,False,262079,262091,shopify_auto
+nanoleaf.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|VWO,,False,20570,0,soft_404
+nanso.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,Shop Pay,False,261266,260958,none
+nanuk.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262136,262106,shopify_auto
+nathanjames.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Northbeam,PayPal|Shop Pay,False,262138,262122,shopify_auto
+nationalefficiency.com,BigCommerce,,Google Analytics 4,,False,190459,0,none
+naturalbabyshower.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Trustpilot|Yotpo,PayPal|Shop Pay,False,262117,262046,shopify_auto
+naturalform.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Meta Pixel|Triple Whale,PayPal|Shop Pay,False,262139,262131,shopify_auto
+naturaselection.com,Shopify,,Google Analytics 4|Microsoft Clarity,PayPal|Shop Pay,False,262059,0,shopify_auto
+naturium.com,Shopify,,Attentive|Bazaarvoice|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|TikTok Pixel,Shop Pay,False,262119,262131,shopify_auto
+naturopathica.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy|TikTok Pixel,PayPal|Shop Pay,False,262102,262102,shopify_auto
+ned.co,,,,,False,4172,0,soft_404
+negativeunderwear.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,AmazonPay (legacy)|PayPal|Shop Pay,False,262050,262065,shopify_auto
+neomwellbeing.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Triple Whale|Yotpo,PayPal|Shop Pay,False,262119,262111,shopify_auto
+nespresso.com,,,Google Analytics 4|Google Tag Manager,,False,228709,0,none
+nestlehealthscience.com,Drupal,,Google Analytics 4|Google Tag Manager,,False,166793,0,none
+neverfullydressed.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Rebuy|TikTok Pixel|Trustpilot,AmazonPay (legacy)|Google Pay|PayPal|Shop Pay,False,262121,0,shopify_auto
+newwestknifeworks.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262026,262106,shopify_auto
+nike.com,,Next.js,Google Analytics 4|New Relic,,False,262115,0,none
+ninjatransfers.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Optimizely|Rebuy|TikTok Pixel|Triple Whale,Google Pay|PayPal|Shop Pay,False,262126,262132,shopify_auto
+nissinfoods.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|TikTok Pixel,,False,262144,262144,none
+notpot.com,Shopify,Gatsby,Google Analytics 4|Google Tag Manager|Reddit Pixel|Snapchat Pixel,,True,250271,0,none
+nrbyclothing.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262111,261992,shopify_auto
+nrma.com,,,Google Analytics 4,,False,262140,0,soft_404
+nurangecoffee.com,Shopify,,Google Analytics 4|Junip|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,183952,173593,shopify_auto
+nuskool.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,95778,0,shopify_auto
+nuun.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Optimizely|Segment|Yotpo,PayPal|Shop Pay,False,262123,262131,shopify_auto
+nuxe.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Microsoft Clarity,Shop Pay,False,261888,261585,shopify_auto
+nydj.com,Shopify,,Attentive|Crazy Egg|Google Analytics 4|Klaviyo Onsite|Pinterest Tag|VWO|Yotpo,AmazonPay (legacy)|PayPal|Shop Pay,False,262099,0,shopify_auto
+nzxt.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy,Affirm|PayPal|Shop Pay,False,261882,262001,shopify_auto
+oakywood.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity|Polar Analytics|Trustpilot|Universal Analytics,PayPal|Shop Pay,False,261416,261416,soft_404
+oatsome.com,,Next.js,Google Analytics 4|Google Tag Manager,,False,64686,0,none
+oatsovernight.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Junip|Klaviyo Onsite|Pinterest Tag|Reddit Pixel|TikTok Pixel,,False,211779,262104,none
+obvi.com,Squarespace,,Google Analytics 4,,False,262144,0,none
+octopiedmind.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Loox|Rebuy,PayPal|Shop Pay,False,261560,261528,shopify_auto
+odaje.com,Shopify,,Google Analytics 4|Google Tag Manager|Microsoft Clarity,PayPal|Shop Pay,False,261871,0,shopify_auto
+odele.co,,,,,False,1036,0,soft_404
+offbeatbikes.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,116027,0,shopify_auto
+ogee.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite|Loop Returns|LoyaltyLion|Rebuy|Triple Whale,PayPal|Shop Pay,False,262061,262063,shopify_auto
+ohmycream.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,261862,261788,shopify_auto
+ohpolly.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|LoyaltyLion|Microsoft Clarity|Tapcart|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262077,262061,shopify_auto
+ohsnap.com,Shopify,,Bazaarvoice|Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Meta Pixel|Microsoft Clarity|TikTok Pixel|Triple Whale,Afterpay|PayPal|Shop Pay,False,262119,262119,shopify_auto
+olly.com,Shopify,,Attentive|Bazaarvoice|Google Analytics 4|Segment,PayPal|Shop Pay,False,262118,262113,shopify_auto
+olukai.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Tapcart,PayPal|Shop Pay,False,262119,262119,shopify_auto
+omni.com,WordPress,,Google Analytics 4|LinkedIn Insight,,False,123817,207106,none
+omylaboratoires.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Heap|Klaviyo Onsite|Triple Whale,Afterpay|PayPal|Shop Pay,False,262082,0,none
+onechampionship.com,,,,,False,114,0,soft_404
+oneill.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262094,262109,shopify_auto
+onewheel.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Northbeam|Yotpo,PayPal|Shop Pay,False,262142,262138,shopify_auto
+onlycurls.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Octane AI|Triple Whale,PayPal|Shop Pay,False,262134,262061,shopify_auto
+ooni.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Octane AI|Triple Whale|Trustpilot|Yotpo,PayPal|Shop Pay,False,262114,261976,shopify_auto
+openstore.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4,,False,262139,0,none
+opopop.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LinkedIn Insight|Rebuy|TikTok Pixel|Triple Whale|Universal Analytics|Yotpo,PayPal|Shop Pay,False,261959,262055,shopify_auto
+optimizelytest.com,,,,,False,114,0,soft_404
+origin.com,,,Google Analytics 4|Google Tag Manager,,False,164395,0,soft_404
+originalgrain.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Octane AI|Rebuy|Triple Whale,PayPal|Shop Pay,False,262080,262068,shopify_auto
+origincoffee.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Octane AI,Afterpay|Shop Pay,False,262127,0,none
+orlakiely.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI|Rebuy|Yotpo,PayPal|Shop Pay,False,262126,0,shopify_auto
+orlebarbrown.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Yotpo,Afterpay|PayPal|Shop Pay,False,262126,0,shopify_auto
+orthofeet.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262110,262113,shopify_auto
+orveonglobal.com,Webflow,,,,False,32630,0,none
+osea.com,,,Google Analytics 4|Google Tag Manager|Universal Analytics,,False,46829,0,none
+ourplace.com,,,,,False,4220,0,soft_404
+outcast.co,,,,,False,114,0,manual
+outdoorvoices.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Northbeam|Triple Whale,Afterpay|PayPal|Shop Pay,False,262088,262076,shopify_auto
+ovo.com,WordPress,,Cookiebot / OneTrust|Google Tag Manager|Meta Pixel,,False,50684,0,none
+p.co,,Next.js,Google Analytics 4,,False,225662,0,none
+paceline.com,WordPress,,Google Analytics 4|Universal Analytics,,False,69782,0,none
+pacificmanufacturing.com,,,Crazy Egg|Google Analytics 4|Google Tag Manager|Hotjar,,False,113140,0,soft_404
+packd.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,94477,0,shopify_auto
+paige.com,Shopify,Next.js,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,,True,262118,262136,none
+paireyewear.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262103,262060,shopify_auto
+pairofthieves.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Octane AI|Yotpo,Amazon Pay|PayPal|Shop Pay,False,261993,262031,shopify_auto
+pandatea.co,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|TikTok Pixel,PayPal|Shop Pay,False,261758,261745,none
+pangaia.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262022,261730,shopify_auto
+pangobooks.com,,Next.js,Google Analytics 4|Google Tag Manager|Meta Pixel,,False,56216,0,soft_404
+pantryshop.com,,Next.js,Google Analytics 4,,False,41013,0,none
+paperlike.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,261870,261742,shopify_auto
+papershootcamera.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale,Shop Pay,False,262108,262108,soft_404
+papier.com,,,Google Analytics 4|Microsoft Clarity|Segment|TikTok Pixel,,False,262131,0,none
+parachute.com,Squarespace,,Google Analytics 4|Google Tag Manager,,False,262118,0,none
+parkseed.com,Shopify,,Google Analytics 4|Hotjar,Afterpay|PayPal|Shop Pay,False,262128,0,shopify_auto
+particleformen.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Stamped|Trustpilot|VWO,Afterpay,False,237061,261718,manual
+pashionfootwear.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,261703,261963,shopify_auto
+passenger.com,,,Google Analytics 4|Universal Analytics,,False,12662,0,none
+patrickta.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Meta Pixel|Microsoft Clarity|Octane AI|Rebuy|Yotpo,PayPal|Shop Pay,False,261963,262015,shopify_auto
+patta.com,,,Google Analytics 4|Google Tag Manager,,False,140348,0,none
+paul.com,,Next.js,,,False,23390,0,none
+paulsmith.com,,Nuxt.js,Google Analytics 4,,False,262144,0,soft_404
+paw.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Rebuy|Triple Whale|Yotpo,PayPal|Shop Pay,False,262094,0,shopify_auto
+pawcom.com,,,Google Analytics 4|Universal Analytics,,False,98434,0,manual
+payot.co,,,,,False,1036,0,soft_404
+peaches.com,Wix,,Google Analytics 4,,False,262118,0,manual
+peacockalley.com,Shopify,,Google Analytics 4|Gorgias|Meta Pixel,Amazon Pay|PayPal|Shop Pay,False,262108,262126,shopify_auto
+pedalmafia.com,,,Universal Analytics,,False,9986,0,none
+peepers.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262095,0,shopify_auto
+pelagic.co,,Next.js,,,False,61373,0,none
+peloton.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,223862,0,none
+penguinbooks.com,,,,,False,9697,0,none
+pepper.com,,,Google Analytics 4,,False,261971,0,soft_404
+pepperpalace.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale|Yotpo,PayPal|Shop Pay,False,262124,262118,shopify_auto
+perryellis.com,Shopify,,Google Analytics 4|Yotpo,Afterpay|AmazonPay (legacy)|PayPal|Shop Pay,False,261969,0,shopify_auto
+personanutrition.com,,,Google Analytics 4|Google Tag Manager|Meta Pixel|Microsoft Clarity|TikTok Pixel,,False,146803,0,soft_404
+pescience.com,Shopify|Drupal,,Google Analytics 4|Gorgias,PayPal|Shop Pay,False,262122,262128,shopify_auto
+petal.co,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,138088,0,none
+petmeds.com,Salesforce Commerce Cloud,,Google Analytics 4|Google Tag Manager|Microsoft Clarity|Optimizely,,False,262139,0,none
+petstop.com,WordPress,,Google Analytics 4|Google Tag Manager,,False,165297,153704,none
+phiacademy.com,,Nuxt.js,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,262020,0,soft_404
+phlur.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite,Shop Pay,False,262042,262016,shopify_auto
+pico.com,,Next.js,Google Analytics 4|Google Tag Manager,,False,261884,0,soft_404
+pilgrim.com,,,,,False,4554,0,none
+pinalli.com,,,,,False,2975,0,none
+pineappledancestudios.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,200082,0,soft_404
+pinkgellac.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Hotjar|Klaviyo Onsite|LoyaltyLion,PayPal|Shop Pay,False,261306,261284,shopify_auto
+pinter.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Trustpilot|VWO,Shop Pay,False,238979,0,shopify_auto
+piral.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Yotpo,PayPal|Shop Pay,False,261444,0,shopify_auto
+pittarosso.com,Shopify,Next.js,Google Analytics 4,,True,262021,0,none
+plantoys.com,Shopify,,Google Analytics 4|Gorgias|Reddit Pixel|Triple Whale,Shop Pay,False,262066,262068,shopify_auto
+plouise.co,,,,,False,114,0,soft_404
+polysleep.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Octane AI,Affirm|PayPal|Shop Pay,False,262109,262084,shopify_auto
+polywood.com,Shopify,,Crazy Egg|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262101,262118,shopify_auto
+poolday.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,208797,194842,shopify_auto
+popchart.com,Webflow,,Google Analytics 4|Google Tag Manager,,False,133190,0,none
+popflex.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,261981,0,none
+poppybarley.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite,Affirm|Shop Pay,False,194119,261731,shopify_auto
+portermedia.com,Shopify,,Google Analytics 4|Mixpanel|Northbeam,Shop Pay,False,185866,0,shopify_auto
+portlandleathergoods.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262130,262130,shopify_auto
+poshpeanut.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Northbeam|Rebuy,PayPal|Shop Pay,False,262057,262057,shopify_auto
+positivegrid.com,Shopify,,Google Analytics 4|Microsoft Clarity|Triple Whale|VWO,PayPal|Shop Pay,False,262074,262058,shopify_auto
+possible.com,,,Cookiebot / OneTrust|Google Analytics 4,,False,124215,0,none
+potgang.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Triple Whale|VWO,PayPal|Shop Pay,False,262107,262105,shopify_auto
+premier.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,64101,0,soft_404
+prettylitter.com,Shopify,Nuxt.js,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,True,262142,262144,none
+primallypure.com,Shopify,,Google Analytics 4|Gorgias|Hotjar|Triple Whale,Afterpay|PayPal|Shop Pay,False,262103,262112,shopify_auto
+primalqueen.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262142,0,shopify_auto
+primarygoods.com,Webflow,,Google Analytics 4|Meta Pixel|Microsoft Clarity|Quantcast|VWO,,False,60307,0,none
+primitiveskate.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,261991,0,shopify_auto
+princesspolly.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Snapchat Pixel|TikTok Pixel|Universal Analytics,PayPal|Shop Pay,False,262143,0,none
+profumeriegriffe.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,261997,261831,shopify_auto
+prose.com,,,Google Analytics 4|Google Tag Manager|Sentry|VWO,,False,28226,0,soft_404
+psychedelicwater.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Amazon Pay|Shop Pay,False,262123,262117,shopify_auto
+psychobunny.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262140,0,shopify_auto
+pullup.com,,,,,False,114,0,manual
+pulppantry.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,214960,137233,shopify_auto
+pulseboutique.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion,PayPal|Shop Pay,False,262104,0,none
+pupsentials.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262058,262016,shopify_auto
+pura-scents.com,,,,,False,100459,0,none
+pura.com,Shopify,,Google Analytics 4|Northbeam|Segment|VWO|Yotpo,PayPal|Shop Pay,False,262106,262090,shopify_auto
+puravida.com,WordPress|PrestaShop,,Google Analytics 4,,False,109923,0,none
+puravidabracelets.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,Afterpay|PayPal|Shop Pay,False,262117,0,shopify_auto
+purdyandfigg.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Northbeam|Triple Whale,PayPal|Shop Pay,False,262084,0,shopify_auto
+purple.com,Drupal,,Google Analytics 4,Affirm,False,262143,0,none
+quadlock.com,,,Google Analytics 4|Google Tag Manager,,False,35105,0,none
+quip.com,,Next.js,Cookiebot / OneTrust|Google Tag Manager,,False,23300,0,none
+quokkabrew.com,Shopify,,Google Analytics 4|Junip|Klaviyo Onsite|Microsoft Clarity|Quantcast|Skio,PayPal|Shop Pay,False,160100,0,shopify_auto
+radleylondon.com,Shopify,,Attentive|Google Analytics 4|Microsoft Clarity,Afterpay|PayPal|Shop Pay,False,262128,0,shopify_auto
+rainbowshops.com,Shopify,,Attentive|Google Analytics 4|Rebuy,Klarna|PayPal|Shop Pay,False,262092,0,shopify_auto
+rains.com,Shopify,,Google Analytics 4,Shop Pay,False,262120,261618,shopify_auto
+rarebeauty.com,Shopify,,Attentive|Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Yotpo,PayPal|Shop Pay,False,208654,229452,shopify_auto
+ratandboa.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Universal Analytics,PayPal|Shop Pay,False,60613,0,shopify_auto
+rausch.com,Webflow,,Google Analytics 4,,False,58324,0,none
+raycon.co,,,,,False,114,0,manual
+razorgroup.com,WordPress,,Google Analytics 4|Universal Analytics,,False,194932,0,manual
+realgoodcoffeeco.com,Shopify,,Google Analytics 4|Junip,Shop Pay,False,113379,0,none
+reallygoodboxedwine.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Rebuy|Triple Whale,PayPal|Shop Pay,False,262144,0,shopify_auto
+reasonclothing.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Loop Returns,PayPal|Shop Pay,False,262128,262111,shopify_auto
+rebeccaminkoff.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262144,262144,shopify_auto
+redbull.com,,,Google Analytics 4,,False,261868,0,none
+redmond.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262074,0,none
+redmondlife.com,,,Universal Analytics,,False,2750,0,none
+reformation.com,Salesforce Commerce Cloud,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Optimizely,Stripe,False,262144,262144,none
+regimenlab.com,Shopify,,Google Analytics 4|Google Tag Manager|Junip|Klaviyo Onsite|Microsoft Clarity|Skio,PayPal|Shop Pay,False,261940,261927,shopify_auto
+relive.com,,Next.js,,,False,214297,0,none
+remi.com,WordPress,,Google Analytics 4|LinkedIn Insight|Universal Analytics,,False,82224,0,none
+renardscheese.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,Shop Pay,False,262090,262040,shopify_auto
+rentoza.com,,,,,False,618,0,manual
+renttherunway.com,Drupal,Next.js,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,168051,262142,none
+renuebyscience.com,Shopify,,FullStory|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262007,261973,shopify_auto
+represent.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,Stripe,False,262144,0,soft_404
+reservebar.com,,Next.js,Google Analytics 4|New Relic,,False,262136,0,none
+reshoevn8r.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262140,262116,shopify_auto
+rest.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262055,262056,shopify_auto
+restickity.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay,False,262131,262138,shopify_auto
+revolutionbeauty.com,Salesforce Commerce Cloud,,Google Tag Manager|Trustpilot,Apple Pay,False,262111,0,none
+rexspecs.com,Shopify,,Crazy Egg|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262139,262138,none
+rhodeskin.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262086,262079,shopify_auto
+ries.com,,,Google Tag Manager,,False,262137,0,none
+riffraff.com,,,Google Analytics 4|Universal Analytics,,False,176177,0,soft_404
+rightleftagency.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|Meta Pixel|Microsoft Clarity,,False,262119,0,none
+ritual.com,Shopify,,Amplitude|Google Analytics 4|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,262086,262074,shopify_auto
+roarstudios.com,,,,,False,4690,0,none
+rollienation.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity,Afterpay|AmazonPay (legacy)|PayPal|Shop Pay,False,262110,0,shopify_auto
+romadesignerjewelry.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Rebuy|Triple Whale,PayPal|Shop Pay,False,262094,262088,shopify_auto
+ronaldojewelry.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay,False,262128,262123,shopify_auto
+rowingblazers.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262080,262102,shopify_auto
+rsvp-paris.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,141424,0,shopify_auto
+rudis.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Triple Whale|Yotpo,PayPal|Shop Pay,False,262144,262069,shopify_auto
+rudsak.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,Klarna|PayPal|Shop Pay,False,262087,262087,shopify_auto
+ruffwear.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262069,261928,shopify_auto
+ruggable.com,Shopify,Next.js,Google Analytics 4,,True,262093,262062,none
+rumpl.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,262102,262092,shopify_auto
+rux.com,,,,,False,276,0,none
+rylee.co,,,,,False,114,0,manual
+ryzon.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity,PayPal|Shop Pay,False,261640,261646,shopify_auto
+saatva.com,,Next.js,Adobe Launch / DTM|Google Analytics 4|Google Tag Manager|Yotpo,Adyen|Affirm,False,262105,0,none
+safevaultstore.com,WooCommerce|WordPress,,Google Analytics 4,Affirm,False,262113,0,none
+sageandclare.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Tapcart,PayPal|Shop Pay,False,262093,0,shopify_auto
+saintandsofia.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Loop Returns,PayPal|Shop Pay,False,262119,262114,shopify_auto
+saltandstone.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Northbeam|Triple Whale,Afterpay|PayPal|Shop Pay,False,262115,262073,shopify_auto
+saltboutique.com,,,Google Analytics 4|Google Tag Manager|Meta Pixel|New Relic,,False,262133,0,none
+samsonite.com,Salesforce Commerce Cloud,,Bazaarvoice|Google Analytics 4|Google Tag Manager|TikTok Pixel,Apple Pay,False,262124,0,soft_404
+sanjo.com,,,,,False,1040,0,soft_404
+saranoni.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Northbeam|Rebuy,PayPal|Shop Pay,False,262036,262045,shopify_auto
+sardel.com,,,,,False,10389,0,soft_404
+saturdayclub.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,125629,0,shopify_auto
+schleich.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,261993,0,none
+scottsflowersnyc.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Meta Pixel,Afterpay|PayPal|Shop Pay,False,262108,262120,shopify_auto
+sculptedbyaimee.com,Shopify,,Bazaarvoice|Cookiebot / OneTrust|Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Octane AI|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262052,0,shopify_auto
+seabags.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262129,262132,shopify_auto
+sease.com,,,,,False,870,0,none
+sennheiser.com,,Next.js,Google Tag Manager|Optimizely,,False,262111,0,none
+sephora.com,,,Bazaarvoice|Google Analytics 4,,False,262009,0,none
+sergeblanco.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Loox,PayPal|Shop Pay,False,261989,0,shopify_auto
+serpentinegalleries.com,WordPress,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Hotjar|Microsoft Clarity|Universal Analytics,,False,140673,0,none
+shapingnewtomorrow.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Trustpilot,Shop Pay,False,262142,0,shopify_auto
+sheetsgiggles.com,BigCommerce,,Google Analytics 4|Klaviyo Onsite,,False,225963,0,none
+shereadstruth.com,WordPress|PrestaShop,,Google Analytics 4|Hotjar|Klaviyo Onsite|Meta Pixel|Universal Analytics,,False,69877,0,none
+shineon.com,Webflow,,Google Analytics 4,,False,100684,0,none
+shinola.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262140,262140,none
+shocksurplus.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale|Universal Analytics,Affirm|Afterpay|PayPal|Shop Pay,False,262142,0,none
+shokz.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity|TikTok Pixel|VWO,Google Pay|PayPal|Shop Pay,False,261792,261773,shopify_auto
+shoott.com,,Next.js,,,False,262067,0,none
+shopbeergear.com,Shopify,,Google Analytics 4|Google Tag Manager|Microsoft Clarity|Rebuy,Shop Pay,False,262124,0,shopify_auto
+showmeyourmumu.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Tapcart|Yotpo,PayPal|Shop Pay,False,262140,262132,shopify_auto
+sigmasports.com,,,Adobe Analytics|Google Analytics 4|Google Tag Manager,,False,262128,262136,none
+siksilk.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262121,0,shopify_auto
+silksilky.com,Shopify,,Google Analytics 4|Microsoft Clarity,PayPal|Shop Pay,False,262110,262110,shopify_auto
+simba.com,WordPress,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|New Relic|VWO,,False,262115,0,soft_404
+simbasleep.com,Shopify,,Bing UET|Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Sentry|Triple Whale|Trustpilot,PayPal|Shop Pay,False,261589,261567,shopify_auto
+simkhai.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy,PayPal|Shop Pay,False,261989,261862,shopify_auto
+simonpearce.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity|Northbeam,PayPal|Shop Pay,False,262068,262060,shopify_auto
+simplemodern.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Rebuy,PayPal|Shop Pay,False,262087,262080,shopify_auto
+simplyearth.com,,,Google Analytics 4|Google Tag Manager,,False,262138,0,soft_404
+simulate.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager|Microsoft Clarity,,False,121666,0,soft_404
+sitkasalmonshares.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,Afterpay|Shop Pay,False,262128,262128,shopify_auto
+skiessentials.com,Shopify,Hydrogen,Google Analytics 4,,True,262100,0,none
+skims.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4,Klarna,False,259199,262110,none
+skininc.com,,,Google Analytics 4|Google Tag Manager,,False,96641,132318,none
+skinnydiplondon.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Microsoft Clarity|Trustpilot,Afterpay|PayPal|Shop Pay,False,262124,262117,shopify_auto
+skknbykim.com,Shopify,,Adobe Launch / DTM|Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite,AmazonPay (legacy)|PayPal|Shop Pay,False,76303,0,none
+skoon.com,WooCommerce|WordPress|PrestaShop,,,,False,91922,0,manual
+skullcandy.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,262126,262105,shopify_auto
+slamjam.com,Shopify,,Google Analytics 4|Gorgias|Trustpilot,PayPal|Shop Pay,False,261918,261908,shopify_auto
+sleepstation.com,,,,,False,114,0,manual
+sloanetea.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,228433,262012,shopify_auto
+smcacreative.com,Wix,,Google Analytics 4,,False,262124,0,manual
+smilebrilliant.com,WooCommerce|WordPress|PrestaShop,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite,Affirm,False,262099,262131,soft_404
+smiledirectclub.com,Shopify,,Cookiebot / OneTrust|FullStory|Google Analytics 4|Google Tag Manager|Microsoft Clarity|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262126,262126,soft_404
+smythson.com,Salesforce Commerce Cloud,,Bing UET|Google Analytics 4|Meta Pixel,Apple Pay,False,255546,0,none
+snacknation.com,WordPress,,Google Analytics 4|Microsoft Clarity,,False,262136,0,none
+snif.com,,,Google Analytics 4|Universal Analytics,,False,8340,0,none
+snocks.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Rebuy|TikTok Pixel|Universal Analytics,PayPal|Shop Pay,False,260436,260386,shopify_auto
+snowe.com,,,,,False,1040,0,soft_404
+snug.com,WordPress,,Google Analytics 4|Google Tag Manager|Meta Pixel,,False,35538,0,none
+snugglehunny.com,Shopify,,Google Analytics 4|Gorgias|Yotpo,PayPal|Shop Pay,False,262144,0,none
+snyderperformanceengineering.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Loox,Affirm|Shop Pay,False,261993,0,none
+society6.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262138,262140,shopify_auto
+sodastream.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262104,262070,shopify_auto
+soeju.com,,,Google Analytics 4|Meta Pixel|Universal Analytics,,False,13682,0,none
+soeur.com,,,,,False,114,0,manual
+sofaclub.com,Magento / Adobe Commerce,,Bazaarvoice|Google Analytics 4|Google Tag Manager|New Relic|Trustpilot,Afterpay,False,243842,262132,none
+softservices.com,Shopify,Next.js|Hydrogen,Google Analytics 4|Junip,,True,261889,261800,soft_404
+soju.com,,,,,False,114,0,soft_404
+solacebands.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Triple Whale,Afterpay|PayPal|Shop Pay,False,262104,0,shopify_auto
+solgaard.com,,,,,False,3452,0,none
+songfinch.com,,,Attentive|Google Analytics 4|Google Tag Manager,,False,26514,0,none
+soshape.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Octane AI|Triple Whale|Trustpilot,Afterpay|PayPal|Shop Pay,False,261635,261953,shopify_auto
+soup-stock-tokyo.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,75696,0,none
+spacegoods.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Loox|Microsoft Clarity|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262127,262133,shopify_auto
+spanx.com,Shopify,,Amplitude|Attentive|Bing UET|Google Analytics 4|Trustpilot,,False,262099,0,none
+speedengineering.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262140,0,none
+splashwines.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Polar Analytics|Trustpilot,Afterpay|PayPal|Shop Pay,False,262122,262117,shopify_auto
+spoiledchild.com,Magento / Adobe Commerce,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Optimizely|Yotpo,PayPal,False,161534,0,none
+springfreetrampoline.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,Affirm|PayPal|Shop Pay,False,262037,262109,shopify_auto
+stand.com,,,Google Analytics 4|Universal Analytics,,False,12491,0,none
+stanfields.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay,False,262006,261988,shopify_auto
+staples.com,,Next.js,Adobe Analytics|Adobe Launch / DTM|Bazaarvoice|Google Analytics 4|New Relic,PayPal,False,262117,0,none
+starlightknittingsociety.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262016,262106,shopify_auto
+statebicycleco.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Triple Whale|VWO,Affirm|PayPal|Shop Pay,False,262052,0,none
+steadystraps.com,Shopify,,Bing UET|Google Analytics 4|Microsoft Clarity|Yotpo,PayPal|Shop Pay,False,262094,262078,shopify_auto
+stellareats.com,Shopify,,Google Analytics 4,Shop Pay,False,205428,0,shopify_auto
+stevemadden.com,Shopify,SvelteKit,Google Analytics 4|Google Tag Manager|Gorgias,,True,262131,262134,shopify_auto
+stillbloom.com,,,,,False,16952,0,none
+stitchfix.com,,Next.js,Google Analytics 4,,False,261068,0,none
+stonebrewing.com,Drupal,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,False,142126,0,none
+stoov.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262119,261996,shopify_auto
+storesetrideaux.com,,,Google Tag Manager|Klaviyo Onsite|Meta Pixel,,False,261438,0,none
+storq.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Northbeam,Afterpay|PayPal|Shop Pay,False,262117,262024,none
+strandbags.com,Shopify,,Google Analytics 4|Meta Pixel|TikTok Pixel,Afterpay|PayPal|Shop Pay,False,261884,261885,shopify_auto
+striderite.com,Shopify,,Attentive|Google Analytics 4|Gorgias|LoyaltyLion,PayPal|Shop Pay,False,262118,0,none
+studs.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Meta Pixel|Microsoft Clarity,Affirm|PayPal|Shop Pay,False,262035,262028,shopify_auto
+stylematch.com,,,,,False,114,0,manual
+suitshop.com,Shopify,Next.js,Google Analytics 4,,True,262127,194529,none
+sukhmanidesigns.com,Shopify,,Google Analytics 4,Shop Pay,False,121018,121018,shopify_auto
+sundrug.com,,,,,False,114,0,soft_404
+sunny16.com,Shopify,,Google Analytics 4|Gorgias,Shop Pay,False,262100,262100,shopify_auto
+sunology.com,,,,,False,1512,0,soft_404
+suntory.com,,,Cookiebot / OneTrust|Google Tag Manager|LinkedIn Insight,,False,79136,0,none
+superfeet.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Yotpo,Shop Pay,False,262138,262034,shopify_auto
+supernote.com,Shopify,,Google Analytics 4|Hotjar|Microsoft Clarity|Reddit Pixel,PayPal|Shop Pay,False,262134,262124,shopify_auto
+surelywine.com,,,,,False,114,0,soft_404
+svenfish.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,261576,0,shopify_auto
+swan.com,,,Google Analytics 4|Meta Pixel|Trustpilot,,False,262132,0,manual
+swanky.com,,,,,False,6757,0,none
+swankyagency.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,167041,0,none
+swati.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Trustpilot,Shop Pay,False,261088,0,shopify_auto
+sweetwaterdecor.com,Shopify,Next.js,Google Analytics 4|Microsoft Clarity,,True,262138,262144,none
+swimoutlet.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Microsoft Clarity|Northbeam,PayPal|Shop Pay,False,262049,0,shopify_auto
+swoveralls.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262036,262046,shopify_auto
+systerp.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Yotpo,PayPal|Shop Pay,False,261841,262018,shopify_auto
+t1tan.com,Shopify,SvelteKit,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,True,262130,262139,shopify_auto
+tabs.com,,Next.js,Google Analytics 4|Google Tag Manager,,False,262140,262124,none
+tabschocolate.com,Shopify,,Google Analytics 4|Hotjar|Klaviyo Onsite|Loox|Rebuy,Shop Pay,False,262035,0,shopify_auto
+taika.com,,,,,False,21050,0,none
+taschen.com,,Next.js,Google Analytics 4,,False,262042,0,none
+tasmanholidayparks.com,,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,,False,262138,0,manual
+tastesalud.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Octane AI|Rebuy,PayPal|Shop Pay,False,262064,262062,shopify_auto
+tatcha.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite,PayPal|Shop Pay,False,262130,262130,shopify_auto
+taylorstitch.com,Shopify,,,,False,262135,0,shopify_auto
+tecovas.com,Shopify,,Attentive|Google Analytics 4,,False,262127,262120,manual
+tella.com,,Next.js,Fathom|Google Analytics 4,,False,261943,0,manual
+tenlittle.com,Shopify,,Google Analytics 4|Gorgias,PayPal|Shop Pay,False,262130,262134,shopify_auto
+tennisgiant.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262122,262128,shopify_auto
+tens.com,,,,,False,10381,0,soft_404
+tenzotea.co,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LinkedIn Insight|Pinterest Tag|Rebuy,PayPal|Shop Pay,False,262144,262134,shopify_auto
+thealdogroup.com,,,Crazy Egg|Google Analytics 4|Google Tag Manager|Hotjar,,False,102969,0,soft_404
+thebeautycrop.com,Shopify,,Google Analytics 4|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity,PayPal|Shop Pay,False,262096,262093,shopify_auto
+thebike.com,,,,,False,43793,0,none
+thebottleclub.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,261717,261715,shopify_auto
+thebradery.com,Shopify,,Datadog RUM|Google Analytics 4|Gorgias|Klaviyo Onsite|Trustpilot,AmazonPay (legacy)|Klarna|PayPal|Shop Pay,False,261141,261146,shopify_auto
+thechive.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,262129,0,none
+thecitizenry.com,,,,,False,1068,0,soft_404
+theconranshop.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Triple Whale|Trustpilot,Shop Pay,False,262116,0,shopify_auto
+thecoutureclub.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Trustpilot,AmazonPay (legacy)|PayPal|Shop Pay,False,262018,262043,shopify_auto
+thefeed.com,Shopify,Next.js|Hydrogen,Google Analytics 4,,True,262101,0,manual
+thefemalecompany.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,261969,261969,soft_404
+thefieldcompany.com,,,,,False,114,0,manual
+thefishsociety.com,,,Crazy Egg|Google Analytics 4|Google Tag Manager|Hotjar,,False,111400,0,soft_404
+thefrankieshop.com,Shopify,,Attentive|Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Polar Analytics,PayPal|Shop Pay,False,262132,262143,shopify_auto
+thefryecompany.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Gorgias|Yotpo,PayPal|Shop Pay,False,262142,262130,shopify_auto
+thegoodguys.com,,,,,False,114,0,soft_404
+thehundreds.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262135,261855,shopify_auto
+theindoorgolfshop.com,Shopify,,Crazy Egg|Google Analytics 4|Gorgias,PayPal|Shop Pay,False,262134,0,shopify_auto
+theinkeylist.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|LoyaltyLion|Trustpilot,PayPal|Shop Pay,False,261674,261677,shopify_auto
+theinspirationcompany.com,,,,,False,114,0,soft_404
+theliquorbros.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Meta Pixel,PayPal|Shop Pay,False,262061,262127,shopify_auto
+thememo.com,,Next.js,Google Analytics 4,,False,262062,0,none
+themessistore.com,Squarespace,,Google Analytics 4,,False,262003,0,none
+theminimalcloset.com,,Next.js,Google Analytics 4,,False,225962,0,none
+theoodie.com,Shopify,,Bing UET|Google Analytics 4|Gorgias,PayPal|Shop Pay,False,262140,262116,shopify_auto
+theproscloset.com,Shopify,,Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy|TikTok Pixel,PayPal|Shop Pay,False,262126,262142,shopify_auto
+thequalitygroup.com,,,Google Analytics 4,,False,87129,0,none
+theragcompany.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Meta Pixel|Rebuy,Amazon Pay|PayPal|Shop Pay,False,262093,262093,shopify_auto
+theridge.co,,,,,False,114,0,soft_404
+theshippingstore.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,147170,0,shopify_auto
+theskinnerd.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|LoyaltyLion|Meta Pixel,PayPal|Shop Pay,False,262123,262119,shopify_auto
+thesomewhereco.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262099,262093,shopify_auto
+thespicehouse.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262134,262127,shopify_auto
+thewodlife.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,261995,0,none
+thewoobles.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Northbeam,PayPal|Shop Pay,False,262111,262061,shopify_auto
+thinkiowacity.com,WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,262120,0,none
+thirdlove.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262089,261841,shopify_auto
+thousandfell.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Triple Whale,Afterpay|PayPal|Shop Pay,False,262118,262118,shopify_auto
+threadheads.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Triple Whale,Google Pay|PayPal|Shop Pay,False,262039,262042,none
+threebirdnest.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Meta Pixel|Pinterest Tag|Snapchat Pixel|TikTok Pixel|Universal Analytics,,False,262048,261661,shopify_auto
+threeshipsbeauty.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Rebuy|Triple Whale,PayPal|Shop Pay,False,262065,262000,manual
+thrivecausemetics.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Klaviyo Onsite|Northbeam|Octane AI|Rebuy|Yotpo,PayPal|Shop Pay,False,262082,261979,shopify_auto
+thrivemarket.com,,Next.js,Google Analytics 4|New Relic,,False,262144,262113,soft_404
+tibi.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Loop Returns|Microsoft Clarity,PayPal|Shop Pay,False,262138,262090,shopify_auto
+tilley.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite,PayPal|Shop Pay,False,262104,0,shopify_auto
+timex.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Northbeam|Octane AI,AmazonPay (legacy)|Shop Pay,False,262107,262104,shopify_auto
+tineco.com,,,Google Analytics 4|Google Tag Manager|Meta Pixel,,False,123136,0,soft_404
+titancasket.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262087,262137,shopify_auto
+titanfitness.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262128,262122,shopify_auto
+tobyssports.com,Shopify,,Google Analytics 4|Loox|Microsoft Clarity,Shop Pay,False,262112,0,shopify_auto
+tomlinsons.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,Shop Pay,False,262089,261939,shopify_auto
+tommyjohn.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262123,262096,none
+tonyschocolonely.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,222702,231459,shopify_auto
+topicals.com,,,,,False,9959,0,soft_404
+tortuga.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Octane AI,PayPal|Shop Pay,False,262137,262137,soft_404
+totallychocolate.com,WooCommerce|WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,,False,262136,0,none
+toyota.com,,,Adobe Analytics|Google Analytics 4,,False,262137,0,none
+tradecoffee.com,,,Google Analytics 4,,False,48434,0,none
+transformertable.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Meta Pixel|Reddit Pixel|Triple Whale|Trustpilot,Shop Pay,False,262102,262102,shopify_auto
+travelcat.com,,,,,False,20676,0,none
+travelpro.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Triple Whale|Yotpo,PayPal|Shop Pay,False,262072,261976,shopify_auto
+treeoflife.co,,,,,False,4240,0,soft_404
+trekbikes.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|VWO,,False,262091,0,none
+trevi.com,Shopify,,Google Analytics 4|Google Tag Manager,Shop Pay,False,261854,261789,shopify_auto
+trinnylondon.com,,,Google Analytics 4|Google Tag Manager,,False,252095,0,none
+triquetra.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,261810,0,none
+tropeaka.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|LoyaltyLion|Northbeam|Octane AI|Triple Whale,PayPal|Shop Pay,False,262095,262110,shopify_auto
+trovebrands.com,Shopify|WordPress|PrestaShop,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,166689,0,shopify_auto
+trueclassic.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Triple Whale,Amazon Pay|PayPal|Shop Pay,False,262099,262089,none
+truelinkswear.com,Shopify,,Attentive|Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262058,262133,shopify_auto
+truevintage.com,,,,,False,746,0,soft_404
+truff.com,Shopify,Hydrogen,Google Analytics 4|Google Tag Manager|VWO,,True,188982,214789,none
+truly.com,,,,,False,811,0,none
+trulylifestylebrand.com,Shopify,,Google Analytics 4|Gorgias|Rebuy,PayPal|Shop Pay,False,261696,0,shopify_auto
+trvi.com,,,,,False,16994,0,none
+tsi.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,53611,95949,soft_404
+tubbytodd.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Triple Whale,Afterpay|PayPal|Shop Pay,False,262121,262084,shopify_auto
+tuckernuck.com,Shopify,,Attentive|Google Analytics 4|Klaviyo Onsite|Northbeam|Pinterest Tag|Yotpo,PayPal|Shop Pay,False,262015,262015,soft_404
+tuesdaymorning.com,Shopify,,Google Analytics 4|Google Tag Manager|Microsoft Clarity,PayPal|Shop Pay,False,262124,0,shopify_auto
+tuftandpaw.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Northbeam|Rebuy,PayPal|Shop Pay,False,262084,262090,shopify_auto
+tula.com,Shopify,,Google Analytics 4|Gorgias|Rebuy,PayPal|Shop Pay,False,262078,261798,shopify_auto
+tumble.com,,,,,False,114,0,manual
+tupperware.com,Shopify,,Google Analytics 4|Rebuy,Shop Pay,False,262137,0,shopify_auto
+turtlebeach.com,Shopify,Remix|Hydrogen,Google Analytics 4,,True,258730,0,none
+tushbaby.com,Shopify,,Attentive|Google Analytics 4|Yotpo,PayPal|Shop Pay,False,262118,262138,none
+tushy.com,,Next.js,Google Analytics 4|Google Tag Manager,,False,100219,0,none
+tushybidet.com,,,Google Analytics 4,,False,87065,0,none
+twinkletwinklelittleone.com,Shopify,,Google Analytics 4|Google Tag Manager|Rebuy,PayPal|Shop Pay,False,262128,262024,shopify_auto
+twoblindbrothers.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Northbeam|Rebuy,Afterpay|PayPal|Shop Pay,False,262084,0,shopify_auto
+typeonestyle.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262071,0,shopify_auto
+typology.com,,Nuxt.js,Google Analytics 4|Google Tag Manager|Sentry,,False,178565,0,none
+ugmonk.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Junip|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,262083,243988,shopify_auto
+ulegroup.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262120,0,shopify_auto
+ultrafootball.com,Shopify,,Attentive|Google Analytics 4,PayPal|Shop Pay,False,262138,0,shopify_auto
+unbloat.com,Shopify,,Bing UET|Google Analytics 4|Klaviyo Onsite|Octane AI|Rebuy|Triple Whale|VWO,PayPal|Shop Pay,False,261943,261921,shopify_auto
+unbottled.com,,,Google Analytics 4|Google Tag Manager|Universal Analytics,,False,50042,0,none
+underoutfit.com,Shopify,Remix|Hydrogen,Google Analytics 4|Google Tag Manager,,True,259993,262108,none
+unitehair.com,Shopify,,Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity|Octane AI|Triple Whale,Afterpay|PayPal|Shop Pay,False,241887,223130,shopify_auto
+untuckit.com,Shopify,,Attentive|Bazaarvoice|Bing UET|Google Analytics 4|Shogun|Triple Whale,PayPal|Shop Pay,False,262122,0,shopify_auto
+unwilted.com,Shopify,,Google Analytics 4|Gorgias|Hotjar|Klaviyo Onsite|Octane AI|Triple Whale,PayPal|Shop Pay,False,261918,261721,shopify_auto
+upscaleaudio.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262142,262130,shopify_auto
+urbanara.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262125,262082,shopify_auto
+urbanindustry.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262100,262130,shopify_auto
+urbanstems.com,Shopify,,Datadog RUM|Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Northbeam,PayPal|Shop Pay,False,262142,262116,shopify_auto
+urbanyou.com,,,,,False,114,0,manual
+urotuning.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262062,0,shopify_auto
+vahdam.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262053,261949,shopify_auto
+valentichgoods.com,Shopify,,Google Analytics 4|Junip|Klaviyo Onsite|Loox,PayPal|Shop Pay,False,225449,262134,shopify_auto
+velasca.com,Shopify,,Google Analytics 4|Klaviyo Onsite|New Relic,PayPal|Shop Pay,False,261896,0,shopify_auto
+venusetfleur.com,Shopify,,Attentive|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Microsoft Clarity|Northbeam|Triple Whale,Afterpay|PayPal|Shop Pay,False,262085,262075,shopify_auto
+verb.com,,,,,False,1119,0,none
+versed.com,WordPress,,,,False,18637,0,soft_404
+vervaunt.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,262136,0,none
+vestique.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262144,262135,shopify_auto
+vickycakes.com,,,,,False,1579,0,none
+victoriabeckham.com,Shopify,,Amplitude|Bing UET|Google Analytics 4|Klaviyo Onsite|Microsoft Clarity,PayPal|Shop Pay,False,262134,262137,shopify_auto
+vinchicago.com,Shopify,,Google Analytics 4,Shop Pay,False,262104,262120,shopify_auto
+vinocheepo.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,233999,232543,shopify_auto
+visitscotland.com,,Nuxt.js,Google Analytics 4|Google Tag Manager,,False,175608,0,none
+vitacoco.com,Shopify,,Bazaarvoice|Google Analytics 4|Gorgias|Klaviyo Onsite|Yotpo,Shop Pay,False,262108,0,shopify_auto
+viva.io,,,Google Analytics 4|Google Tag Manager|Meta Pixel|New Relic,,False,262129,0,none
+volant.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|Meta Pixel|Rebuy,Affirm|PayPal|Shop Pay,False,261973,262024,shopify_auto
+volcom.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias,Google Pay|PayPal|Shop Pay,False,262105,262108,shopify_auto
+vosgeshautchocolat.shop,,Next.js,Google Analytics 4,,False,262044,262001,none
+vsbarbershop.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite,PayPal|Shop Pay,False,262136,0,none
+vssl.com,Webflow,,Google Analytics 4|Google Tag Manager,,False,42345,0,none
+vuori.com,Shopify,Next.js,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,True,262104,262091,manual
+vuoriclothing.com,Shopify,Next.js,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,True,262104,262091,manual
+vyper.com,,,,,False,1040,0,soft_404
+wajos.com,,,,,False,6064,0,soft_404
+wanderlustco.com,,,,,False,114,0,manual
+wantedshoes.com,Shopify,,Google Analytics 4,Shop Pay,False,62039,0,shopify_auto
+warbyparker.com,,Next.js,Bazaarvoice|Google Analytics 4|Google Tag Manager|New Relic,,False,262130,0,none
+waterboy.com,Shopify,,Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity|Mixpanel,PayPal|Shop Pay,False,261964,261985,shopify_auto
+waterdrop.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Klaviyo Onsite|LoyaltyLion|Triple Whale,Amazon Pay|PayPal|Shop Pay,False,262098,262095,shopify_auto
+weebot.com,,,,,False,114,0,manual
+weezer.com,Squarespace,,Google Analytics 4|Google Tag Manager|Universal Analytics,,False,84514,0,none
+wego.com,,,,,False,10147,0,none
+wendywu.com,,,,,False,114,0,manual
+westwing.com,,,Plausible,,False,10552,0,none
+whogivesacrap.com,Shopify,,Bing UET|Google Analytics 4|Hotjar|Klaviyo Onsite|Optimizely|TikTok Pixel|Yotpo,Shop Pay,False,262126,262124,shopify_auto
+whoiselijah.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,116307,0,shopify_auto
+whoop.com,,Next.js,Amplitude|Cookiebot / OneTrust|Datadog RUM|Google Analytics 4|Google Tag Manager,,False,262080,0,manual
+wickededge.com,,,,,False,114,0,manual
+wild.com,,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager,,False,262140,0,soft_404
+wildcosmetics.com,,,,,False,114,0,soft_404
+wildling.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Yotpo,PayPal|Shop Pay,False,262118,262115,shopify_auto
+wildplanet.com,Shopify,,Google Analytics 4|Google Tag Manager|Hotjar|Klaviyo Onsite|VWO,PayPal|Shop Pay,False,262084,0,shopify_auto
+wildwonder.com,,,,,False,168,0,none
+willemse.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,261836,261359,shopify_auto
+willow-tree-boutique.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,262140,107067,shopify_auto
+willpowders.com,Shopify,,Crazy Egg|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|LoyaltyLion|Microsoft Clarity|Triple Whale|Trustpilot,PayPal|Shop Pay,False,262086,262094,shopify_auto
+winc.com,Shopify,,Attentive|Google Analytics 4|Gorgias|Klaviyo Onsite,Afterpay|PayPal|Shop Pay,False,262123,262103,shopify_auto
+wineinsiders.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Northbeam,Afterpay|PayPal|Shop Pay,False,262107,262098,shopify_auto
+winterparkcycles.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262112,262059,shopify_auto
+wisdomsupplyco.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,261891,0,none
+wlrn.com,,,,,False,114,0,manual
+wmpeyewear.com,Shopify,,Bing UET|Google Analytics 4|Google Tag Manager|Gorgias|Hotjar|Klaviyo Onsite|Microsoft Clarity|Octane AI|Rebuy|Triple Whale,PayPal|Shop Pay,False,262082,262108,shopify_auto
+wolfpak.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Northbeam|Triple Whale,PayPal|Shop Pay,False,262014,261988,shopify_auto
+wolfshepherd.com,,,Google Analytics 4|Universal Analytics,,False,38383,0,soft_404
+woodhouseclothing.com,,,,,False,114,0,soft_404
+worldofbooks.com,Shopify,,Google Analytics 4|Google Tag Manager,PayPal|Shop Pay,False,262051,0,shopify_auto
+worldwidecyclery.com,Shopify,,Google Analytics 4|Google Tag Manager|Universal Analytics,Affirm|PayPal|Shop Pay,False,171398,0,shopify_auto
+woxers.com,Shopify,,Cookiebot / OneTrust|Google Analytics 4|Google Tag Manager|Gorgias|Klaviyo Onsite|Rebuy|Tapcart|VWO,PayPal|Shop Pay,False,262106,262102,shopify_auto
+wuffes.com,Shopify,,Google Analytics 4|Gorgias|Klaviyo Onsite|Microsoft Clarity|Trustpilot,PayPal|Shop Pay,False,262089,262078,shopify_auto
+xendurance.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Northbeam|Octane AI|Triple Whale,PayPal|Shop Pay,False,262138,262061,shopify_auto
+yaasa.com,Shopify,,Google Analytics 4|Klaviyo Onsite|Microsoft Clarity|Triple Whale,PayPal|Shop Pay,False,261934,261850,shopify_auto
+yellowbeauty.com,Shopify,,Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,262138,262065,shopify_auto
+yellowberry.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,262140,262122,shopify_auto
+yellowpop.com,Shopify,,Google Analytics 4|Google Tag Manager|Klaviyo Onsite|Microsoft Clarity|Polar Analytics|Trustpilot,PayPal|Shop Pay,False,262101,262111,shopify_auto
+yomamasfoods.com,Shopify,,Bazaarvoice|Google Analytics 4|Klaviyo Onsite,PayPal|Shop Pay,False,186392,262111,manual
+yorkstbrands.com,Shopify,,Google Analytics 4,PayPal|Shop Pay,False,201701,0,shopify_auto
+yourwesterndecor.com,,,Google Analytics 4|Universal Analytics,,False,44007,0,soft_404
+yse.com,,,,,False,16702,0,soft_404
+yumwoof.com,Shopify,,Amplitude|Attentive|Bing UET|Google Analytics 4|Gorgias|Klaviyo Onsite|Triple Whale,PayPal|Shop Pay,False,262093,262119,shopify_auto
+yutori.com,,Next.js,Google Analytics 4,,False,117565,0,manual
+zest.com,Webflow,,Google Analytics 4|Google Tag Manager|Universal Analytics,,False,12703,0,none
+zoovillage.com,Shopify,,Google Analytics 4|Klaviyo Onsite,Shop Pay,False,262098,0,shopify_auto
+zox.com,,,,,False,937,0,none
