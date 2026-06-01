@@ -234,6 +234,8 @@ For editorial use, the strongest framing is the one that pairs the headline stat
 
 The delivery folder includes the following process files copied from the original local report packages. These are included so the published report can be checked against the actual scripts, intermediate outputs, charts, and source drafts used in the reporting workflow.
 
+GitHub source repository: [thunderbit-operations/dtc-support-stack-benchmark-2026](https://github.com/thunderbit-operations/dtc-support-stack-benchmark-2026)
+
 - `process_files/_shared/dtc_brand_pool_source/out/brand_pool_v2.csv`
 - `process_files/_shared/dtc_brand_pool_source/out/detection.csv`
 - `process_files/_shared/dtc_brand_pool_source/out/master.csv`
@@ -257,6 +259,5 @@ Methodology corrections, dataset issues, and follow-up analyses are welcome at [
 <TryButton url={"https://chromewebstore.google.com/detail/thunderbit-ai-web-scraper/hbkblmodhbmcakopmmfbaopfckopccgp?hl=en-US&utm_source=thunderbit_blog"} title={"Try Thunderbit AI Web Scraper"} />
 
 <BottomCard url={"https://thunderbit.com/"} title={"Try AI Web Scraper for Public Web Data"} />
-
 
 
